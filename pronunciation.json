@@ -1,0 +1,128 @@
+[
+  {
+    "id": "01-furi-puri",
+    "text": "ფური და პური.",
+    "meaning": "Cow and bread.",
+    "notes": "ფ aspirated · პ ejective.",
+    "extra": "Preserve the word-initial contrast: ფური begins with aspirated [pʰ], while პური begins with ejective [pʼ]. The letter ფ is an aspirated stop, not the English f sound."
+  },
+  {
+    "id": "02-taro",
+    "text": "თარო და ტარო.",
+    "meaning": "Shelf and corn cob.",
+    "notes": "თ aspirated · ტ ejective.",
+    "extra": "Distinguish aspirated თ in თარო from ejective ტ in ტარო; do not pronounce თ as English th."
+  },
+  {
+    "id": "03-kari",
+    "text": "ქარი და კარი.",
+    "meaning": "Wind and door.",
+    "notes": "ქ aspirated · კ ejective. Both stops, not ხ.",
+    "extra": "Preserve aspirated [kʰ] in ქარი versus ejective [kʼ] in კარი."
+  },
+  {
+    "id": "04-tseli",
+    "text": "ცელი და წელი.",
+    "meaning": "Scythe and year.",
+    "notes": "ც aspirated · წ ejective. One consonant each.",
+    "extra": "Preserve aspirated ც in ცელი and ejective წ in წელი."
+  },
+  {
+    "id": "05-chiri",
+    "text": "ჩირი და ჭირი.",
+    "meaning": "Dried fruit and affliction.",
+    "notes": "ჩ aspirated · ჭ ejective. Neither is შ.",
+    "extra": "Preserve aspirated ჩ in ჩირი and ejective ჭ in ჭირი."
+  },
+  {
+    "id": "06-man-woman",
+    "text": "კაცი და ქალი.",
+    "meaning": "Man and woman.",
+    "notes": "კ ejective · ქ aspirated.",
+    "extra": "Use ejective კ in კაცი and aspirated ქ in ქალი."
+  },
+  {
+    "id": "07-bread-please",
+    "text": "პური, თუ შეიძლება.",
+    "meaning": "Bread, please.",
+    "notes": "პ ejective · თ aspirated · ძ voiced.",
+    "extra": "Preserve ejective პ in პური, aspirated თ in თუ and voiced ძ in შეიძლება."
+  },
+  {
+    "id": "08-white-bread",
+    "text": "თეთრი პური.",
+    "meaning": "White bread.",
+    "notes": "თ aspirated · პ ejective. No vowel in თრ.",
+    "extra": "Preserve both aspirated თ sounds in თეთრი, a Georgian tapped or trilled რ, and ejective პ in პური."
+  },
+  {
+    "id": "09-hot-tea",
+    "text": "ცხელი ჩაი.",
+    "meaning": "Hot tea.",
+    "notes": "ც, ჩ aspirated · ხ friction. No vowel in ცხ.",
+    "extra": "Preserve aspirated ც and ჩ, and the contiguous ცხ consonant cluster in ცხელი."
+  },
+  {
+    "id": "10-water-please",
+    "text": "წყალი, თუ შეიძლება.",
+    "meaning": "Water, please.",
+    "notes": "წ ejective + ყ uvular, no vowel between.",
+    "extra": "Preserve both ejectives in the initial წყ cluster of წყალი, with no inserted vowel; ყ is a Georgian uvular ejective, not English k."
+  },
+  {
+    "id": "11-coffee-cheese",
+    "text": "ყავა და ყველი.",
+    "meaning": "Coffee and cheese.",
+    "notes": "ყ uvular — not კ, ქ or ხ. Then ყვ.",
+    "extra": "Preserve native Georgian ყ in ყავა and the ყვ cluster in ყველი."
+  },
+  {
+    "id": "12-wine-fruit",
+    "text": "ღვინო და ხილი.",
+    "meaning": "Wine and fruit.",
+    "notes": "ღ voiced · ხ voiceless. Both friction, not ქ.",
+    "extra": "Preserve voiced ღ and the ღვ cluster in ღვინო, contrasting with voiceless ხ in ხილი."
+  },
+  {
+    "id": "13-thanks",
+    "text": "დიდი მადლობა.",
+    "meaning": "Thank you very much.",
+    "notes": "დ voiced, not თ or ტ. No vowel in დლ.",
+    "extra": "Preserve voiced დ in დიდი and მადლობა and the დლ cluster without an inserted vowel."
+  },
+  {
+    "id": "14-frog",
+    "text": "ბაყაყი წყალში ყიყინებს.",
+    "meaning": "The frog croaks in the water.",
+    "notes": "Repeated ყ · წყ cluster. Tongue twister.",
+    "extra": "Preserve all occurrences of Georgian ყ and the ejective წყ cluster. Speak clearly at a measured natural pace."
+  },
+  {
+    "id": "15-numbers",
+    "text": "რვა, ცხრა, ათი.",
+    "meaning": "Eight, nine, ten.",
+    "notes": "Clusters რვ, ცხრ · თ aspirated. No extra vowels.",
+    "extra": "Preserve the რვ and ცხრ consonant clusters without inserted vowels, and aspirated თ in ათი."
+  },
+  {
+    "id": "16-five-khinkali",
+    "text": "ხუთი ხინკალი, თუ შეიძლება.",
+    "meaning": "Five khinkali, please.",
+    "notes": "ხ friction · თ aspirated · კ ejective.",
+    "extra": "Distinguish voiceless fricative ხ, aspirated თ, and ejective კ in ხინკალი. Preserve natural Georgian clusters."
+  },
+  {
+    "id": "17-learning",
+    "text": "ქართულს ვსწავლობ.",
+    "meaning": "I am learning Georgian.",
+    "notes": "ვსწ cluster · წ ejective · ქ, თ aspirated.",
+    "extra": "Preserve the initial ვსწ cluster in ვსწავლობ, including ejective წ; do not insert vowels. Use aspirated ქ and თ in ქართულს."
+  },
+  {
+    "id": "18-tetri",
+    "text": "თეთრი თეფში.",
+    "meaning": "A white plate.",
+    "notes": "თ aspirated · ფ aspirated, not შ.",
+    "extra": "Use aspirated თ and ფ throughout თეთრი თეფში, and do not replace ფ with English f."
+  }
+]

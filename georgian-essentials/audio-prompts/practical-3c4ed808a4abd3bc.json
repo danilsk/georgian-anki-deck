@@ -1,0 +1,13 @@
+{
+  "request": {
+    "model": "google/gemini-3.1-flash-tts-preview",
+    "voice": "Charon",
+    "input": "Speak as a native Georgian speaker from Tbilisi, Georgia (the country), reading standard Georgian naturally and clearly. Preserve Georgian ejective consonants პ, ტ, წ, ყ and distinguish them from aspirated ფ, თ, ც. Use Georgian vowels and a Georgian tapped/trilled რ. Read only the sentence below, exactly once, without a preamble, translation, or commentary. Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words.\n\nსამი",
+    "response_format": "pcm"
+  },
+  "text": "სამი",
+  "contentType": "audio/pcm;rate=24000;channels=1",
+  "seconds": 1.36,
+  "generatedAt": "2026-09-09T12:43:07.911Z",
+  "quality": "Synthetic speech; not certified by a native listener."
+}

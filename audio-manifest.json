@@ -1,0 +1,2267 @@
+{
+  "clips": [
+    {
+      "id": "01-furi-puri",
+      "text": "ფური და პური.",
+      "meaning": "Cow and bread.",
+      "notes": "ფ aspirated · პ ejective.",
+      "extra": "Preserve the word-initial contrast: ფური begins with aspirated [pʰ], while პური begins with ejective [pʼ]. The letter ფ is an aspirated stop, not the English f sound."
+    },
+    {
+      "id": "02-taro",
+      "text": "თარო და ტარო.",
+      "meaning": "Shelf and corn cob.",
+      "notes": "თ aspirated · ტ ejective.",
+      "extra": "Distinguish aspirated თ in თარო from ejective ტ in ტარო; do not pronounce თ as English th."
+    },
+    {
+      "id": "03-kari",
+      "text": "ქარი და კარი.",
+      "meaning": "Wind and door.",
+      "notes": "ქ aspirated · კ ejective. Both stops, not ხ.",
+      "extra": "Preserve aspirated [kʰ] in ქარი versus ejective [kʼ] in კარი."
+    },
+    {
+      "id": "04-tseli",
+      "text": "ცელი და წელი.",
+      "meaning": "Scythe and year.",
+      "notes": "ც aspirated · წ ejective. One consonant each.",
+      "extra": "Preserve aspirated ც in ცელი and ejective წ in წელი."
+    },
+    {
+      "id": "05-chiri",
+      "text": "ჩირი და ჭირი.",
+      "meaning": "Dried fruit and affliction.",
+      "notes": "ჩ aspirated · ჭ ejective. Neither is შ.",
+      "extra": "Preserve aspirated ჩ in ჩირი and ejective ჭ in ჭირი."
+    },
+    {
+      "id": "06-man-woman",
+      "text": "კაცი და ქალი.",
+      "meaning": "Man and woman.",
+      "notes": "კ ejective · ქ aspirated.",
+      "extra": "Use ejective კ in კაცი and aspirated ქ in ქალი."
+    },
+    {
+      "id": "07-bread-please",
+      "text": "პური, თუ შეიძლება.",
+      "meaning": "Bread, please.",
+      "notes": "პ ejective · თ aspirated · ძ voiced.",
+      "extra": "Preserve ejective პ in პური, aspirated თ in თუ and voiced ძ in შეიძლება."
+    },
+    {
+      "id": "08-white-bread",
+      "text": "თეთრი პური.",
+      "meaning": "White bread.",
+      "notes": "თ aspirated · პ ejective. No vowel in თრ.",
+      "extra": "Preserve both aspirated თ sounds in თეთრი, a Georgian tapped or trilled რ, and ejective პ in პური."
+    },
+    {
+      "id": "09-hot-tea",
+      "text": "ცხელი ჩაი.",
+      "meaning": "Hot tea.",
+      "notes": "ც, ჩ aspirated · ხ friction. No vowel in ცხ.",
+      "extra": "Preserve aspirated ც and ჩ, and the contiguous ცხ consonant cluster in ცხელი."
+    },
+    {
+      "id": "10-water-please",
+      "text": "წყალი, თუ შეიძლება.",
+      "meaning": "Water, please.",
+      "notes": "წ ejective + ყ uvular, no vowel between.",
+      "extra": "Preserve both ejectives in the initial წყ cluster of წყალი, with no inserted vowel; ყ is a Georgian uvular ejective, not English k."
+    },
+    {
+      "id": "11-coffee-cheese",
+      "text": "ყავა და ყველი.",
+      "meaning": "Coffee and cheese.",
+      "notes": "ყ uvular — not კ, ქ or ხ. Then ყვ.",
+      "extra": "Preserve native Georgian ყ in ყავა and the ყვ cluster in ყველი."
+    },
+    {
+      "id": "12-wine-fruit",
+      "text": "ღვინო და ხილი.",
+      "meaning": "Wine and fruit.",
+      "notes": "ღ voiced · ხ voiceless. Both friction, not ქ.",
+      "extra": "Preserve voiced ღ and the ღვ cluster in ღვინო, contrasting with voiceless ხ in ხილი."
+    },
+    {
+      "id": "13-thanks",
+      "text": "დიდი მადლობა.",
+      "meaning": "Thank you very much.",
+      "notes": "დ voiced, not თ or ტ. No vowel in დლ.",
+      "extra": "Preserve voiced დ in დიდი and მადლობა and the დლ cluster without an inserted vowel."
+    },
+    {
+      "id": "14-frog",
+      "text": "ბაყაყი წყალში ყიყინებს.",
+      "meaning": "The frog croaks in the water.",
+      "notes": "Repeated ყ · წყ cluster. Tongue twister.",
+      "extra": "Preserve all occurrences of Georgian ყ and the ejective წყ cluster. Speak clearly at a measured natural pace."
+    },
+    {
+      "id": "15-numbers",
+      "text": "რვა, ცხრა, ათი.",
+      "meaning": "Eight, nine, ten.",
+      "notes": "Clusters რვ, ცხრ · თ aspirated. No extra vowels.",
+      "extra": "Preserve the რვ and ცხრ consonant clusters without inserted vowels, and aspirated თ in ათი."
+    },
+    {
+      "id": "16-five-khinkali",
+      "text": "ხუთი ხინკალი, თუ შეიძლება.",
+      "meaning": "Five khinkali, please.",
+      "notes": "ხ friction · თ aspirated · კ ejective.",
+      "extra": "Distinguish voiceless fricative ხ, aspirated თ, and ejective კ in ხინკალი. Preserve natural Georgian clusters."
+    },
+    {
+      "id": "17-learning",
+      "text": "ქართულს ვსწავლობ.",
+      "meaning": "I am learning Georgian.",
+      "notes": "ვსწ cluster · წ ejective · ქ, თ aspirated.",
+      "extra": "Preserve the initial ვსწ cluster in ვსწავლობ, including ejective წ; do not insert vowels. Use aspirated ქ and თ in ქართულს."
+    },
+    {
+      "id": "18-tetri",
+      "text": "თეთრი თეფში.",
+      "meaning": "A white plate.",
+      "notes": "თ aspirated · ფ aspirated, not შ.",
+      "extra": "Use aspirated თ and ფ throughout თეთრი თეფში, and do not replace ფ with English f."
+    },
+    {
+      "id": "practical-2098838dff058eef",
+      "text": "გამარჯობა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-22e02ae01044aa14",
+      "text": "დილა მშვიდობისა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5d844353909fda03",
+      "text": "საღამო მშვიდობისა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b6a2deeb41e93461",
+      "text": "ნახვამდის.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-550780b911afa88c",
+      "text": "მადლობა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a0adf3c22776749f",
+      "text": "თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f9b2d2a7ec4eff32",
+      "text": "უკაცრავად.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4d0a270ad8036f57",
+      "text": "კი.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d85ec87ffa8084c6",
+      "text": "არა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6443e7ab780611ae",
+      "text": "არა, მადლობა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ff500e27dc2a1471",
+      "text": "კარგი.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f85307582f62685e",
+      "text": "არაფრის.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b72bdda0d0d7df6f",
+      "text": "როგორ ხართ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bfa817857471dd65",
+      "text": "კარგად ვარ, მადლობა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9e67dc0ba9d393df",
+      "text": "მე მქვია…",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-41c8a9433193a1ce",
+      "text": "არ მესმის.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d0c69c232e81ab3b",
+      "text": "არ ვიცი.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d4d8bb016721880a",
+      "text": "ნელა ილაპარაკეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3856730f7bbbe15d",
+      "text": "გაიმეორეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-44c657c4340c8e1e",
+      "text": "ინგლისურად ლაპარაკობთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a2396438622db197",
+      "text": "ცოტა ქართულად ვლაპარაკობ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-997cb0cbf1072ae4",
+      "text": "დამიწერეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5a7fca21663d5cc8",
+      "text": "ეს რას ნიშნავს?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-450f9cac03ecf6f2",
+      "text": "ამას ქართულად როგორ ამბობენ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6e5a23de17087367",
+      "text": "ერთი წუთით, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-878014ce56ef58e7",
+      "text": "ბოდიში.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-99d870d372adc0e9",
+      "text": "დიახ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-157d6c6aabd57733",
+      "text": "მობრძანდით.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e5754a5f38b26aac",
+      "text": "ეს რა ღირს?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e7a4b67439398749",
+      "text": "ერთი კილო რა ღირს?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-1c164afaa0a93a00",
+      "text": "პური გაქვთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ec5c2125fdd09a89",
+      "text": "ეს მინდა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-485c26a6a2fa2647",
+      "text": "ერთი კილო პომიდორი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-06d98e1f6a2379c0",
+      "text": "ნახევარი კილო ყველი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-36e57ca8b43923b9",
+      "text": "ორი ცალი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-57ddac2870ea182d",
+      "text": "ცოტა მეტი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-64885d9e258ba42a",
+      "text": "ცოტა ნაკლები, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-1a20e170fb20b9ca",
+      "text": "საკმარისია, მადლობა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6467c6f25f53cc21",
+      "text": "შეიძლება გავსინჯო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0fe5202db26472b0",
+      "text": "ახალია?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0aeadf571cd62140",
+      "text": "ტკბილია?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-eec6b4941218f053",
+      "text": "ძვირია.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9a63d34e33c756c6",
+      "text": "ფასს დამიკლებთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-deba9d86a8022603",
+      "text": "უფრო იაფი გაქვთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e42f2c3b8108d032",
+      "text": "ბარათით გადახდა შეიძლება?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-45dd84b6e2bad943",
+      "text": "ნაღდი ფულით გადავიხდი.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-2de0911818d2d32d",
+      "text": "პარკი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6edd4a732dcca519",
+      "text": "პარკი არ მინდა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-af314eec24ad95d5",
+      "text": "ჩეკი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-fd4d79f582d9ed96",
+      "text": "შეიძლება მოვიზომო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ffe8e355aedc5fd5",
+      "text": "უფრო დიდი ზომა გაქვთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5b5005eefe622a75",
+      "text": "უფრო პატარა ზომა გაქვთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-377f08b76c78a1e0",
+      "text": "ბაზარი სად არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bdb0a0d0e47abce1",
+      "text": "კიდევ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4f2f6a8a35255f0a",
+      "text": "სულ ათი ლარია.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-92bd0a37469e75d2",
+      "text": "ხურდა გაქვთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5bee7810179bd637",
+      "text": "მხოლოდ ნაღდი ფულით.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d4679e0dc1eb1509",
+      "text": "არ გვაქვს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9957cba1446789fc",
+      "text": "ბარათით თუ ნაღდით?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-be776a80af225858",
+      "text": "ღიაა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bc904cad9b01563d",
+      "text": "დაკეტილია",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-883332c6590782c2",
+      "text": "მაგიდა ორი ადამიანისთვის, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a60c006a1c2d8ed6",
+      "text": "მენიუ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f8a6824c63b48010",
+      "text": "რას მირჩევთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b333d224bcec63e3",
+      "text": "შეკვეთა მინდა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6f219ad6a4bf4a2f",
+      "text": "ეს, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-991c290a4597582f",
+      "text": "ერთი ხაჭაპური, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-33f75ebd401058f7",
+      "text": "უგაზო წყალი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8026f7e049136d1b",
+      "text": "გაზიანი წყალი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bd7c1c3f1badec1d",
+      "text": "ერთი ყავა, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-49e3f35196a22c1a",
+      "text": "ჩაი უშაქროდ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e7beec597f0ff6a0",
+      "text": "ყავა რძით, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9107a7e181d39ede",
+      "text": "ერთი ჭიქა წითელი ღვინო, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e2fa314b82cc5b64",
+      "text": "ხორცის გარეშე, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e1529ba219e463b0",
+      "text": "ვეგეტარიანელი ვარ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bc3a3697bb1897ae",
+      "text": "ამაში ხორცი არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9cd334687130f3ce",
+      "text": "ამაში ნიგოზი არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f68ca0bc4aef4f7d",
+      "text": "ნიგვზის გარეშე, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-50f4302230050fc8",
+      "text": "ცხარეა?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6fa56c9175d027bf",
+      "text": "ცხარე არ მინდა, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9f9bfbb29124c66c",
+      "text": "მარილი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-681d98e7e476a347",
+      "text": "გემრიელია.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-783c669723f6e62c",
+      "text": "ანგარიში, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-c451508c9c1b40d2",
+      "text": "ცალ-ცალკე გადახდა შეიძლება?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b2f8dcaf6894f2a6",
+      "text": "წასაღებად, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4963f70b921d986f",
+      "text": "ეს შემიფუთეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d07663e39c06b44e",
+      "text": "ტუალეტი სად არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-23cd65c8c3508d59",
+      "text": "აქ მიირთმევთ თუ წაიღებთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5ab427dafae1b9b8",
+      "text": "ინებეთ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-13af9ac5ad8b6c27",
+      "text": "გემრიელად მიირთვით.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-42913efccf517c38",
+      "text": "პური",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-2d093436753b64eb",
+      "text": "ყველი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-97e557b9e3ec9487",
+      "text": "რძე",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-54fdc00ae9f0ba0f",
+      "text": "კვერცხი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8fd2728e13d44087",
+      "text": "კარაქი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-15fd610a42e7914e",
+      "text": "ხორცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-2bd529cb011f4107",
+      "text": "ქათმის ხორცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e91c5f975c1b0dc7",
+      "text": "საქონლის ხორცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8ee83f0fd21d6ffd",
+      "text": "ღორის ხორცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-1b8bb6e7e748fb1e",
+      "text": "თევზი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4a73d83995f0f862",
+      "text": "კარტოფილი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6c4b05b1765e8edb",
+      "text": "პომიდორი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0ab8f3ac0252f69b",
+      "text": "კიტრი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8deaeee9e1470d3c",
+      "text": "ხახვი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-51e535e0cccbe637",
+      "text": "ნიორი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7ee02bfb36100777",
+      "text": "ბადრიჯანი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-afa559d64a98d150",
+      "text": "სოკო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e853e2deee0ac77d",
+      "text": "ლობიო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6cf7bc319ef8f48f",
+      "text": "ხილი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-12a5c4dd9e758f5b",
+      "text": "ბოსტნეული",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ce3161f5c146f802",
+      "text": "ვაშლი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7589183113c6b726",
+      "text": "ბანანი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e019e381ef9b7910",
+      "text": "ყურძენი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9549e714236516c6",
+      "text": "საზამთრო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a00d217a2a056277",
+      "text": "ატამი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6a8661ecdf81333f",
+      "text": "ნიგოზი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3bd5245c0980666a",
+      "text": "თხილი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0d1c4e91e0a3178c",
+      "text": "თაფლი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5d606c9a36322abe",
+      "text": "შაქარი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-41b95d144811a7d3",
+      "text": "მარილი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-00e272f93587d6e3",
+      "text": "ბრინჯი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-c5a532a2188e266d",
+      "text": "წყალი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-cb7009e16963dc3f",
+      "text": "ყავა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-538c79c83262fc1c",
+      "text": "ჩაი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5f3a0ff154f14313",
+      "text": "წვენი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3c430695ed814b11",
+      "text": "ლუდი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-682e4d505134d9e2",
+      "text": "ღვინო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7f4077ca18be4c00",
+      "text": "წითელი ღვინო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-46885e557e88c1c6",
+      "text": "თეთრი ღვინო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-817f356b45172b91",
+      "text": "მშრალი ღვინო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-38006577b3fa72ac",
+      "text": "ხინკალი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9f278cabc57a889f",
+      "text": "ხაჭაპური",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f6392c167f1814b8",
+      "text": "მწვადი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b4e8cca0bcf105cd",
+      "text": "ფხალი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-662e3493d838db7d",
+      "text": "ჩურჩხელა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3cf0482957486fd1",
+      "text": "ტყემალი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9fabe55ea71cbd96",
+      "text": "ცხარე",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f9fb1f4833899d7e",
+      "text": "ცხელი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-da70983e1bd8305a",
+      "text": "ცივი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-03335e37e504c087",
+      "text": "ტკბილი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-090a5534816fb987",
+      "text": "მჟავე",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-277614a78ff01fec",
+      "text": "ავტობუსის გაჩერება სად არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b9d631c0c749b9be",
+      "text": "მეტრო სად არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f1b01a8cbd3d471c",
+      "text": "ეს ავტობუსი ცენტრში მიდის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ef70ec21f01c4ee6",
+      "text": "რომელი ავტობუსი მიდის სადგურზე?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-1c75712046d94b7b",
+      "text": "სად უნდა ჩამოვიდე?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3f9a9aadb1b3b2fe",
+      "text": "აქ გააჩერეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d475dff58a2367f9",
+      "text": "აქ ჩავდივარ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-24a2468745667bc7",
+      "text": "ერთი ბილეთი ბათუმამდე, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-80a352ec1a97d732",
+      "text": "ბილეთი რა ღირს?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d01a5fbc408b8672",
+      "text": "მატარებელი როდის გადის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-655e6a0ecdd29b54",
+      "text": "აეროპორტში როგორ მივიდე?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-14542deb1c980461",
+      "text": "ამ მისამართზე წამიყვანეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a300e8b916b10eae",
+      "text": "რამდენი დრო სჭირდება?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a27454f0029f2c6c",
+      "text": "როგორ გადავიხადო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-15b9217cab0f392d",
+      "text": "სამგზავრო ბარათი სად ვიყიდო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-fe7f726e43681375",
+      "text": "რუკაზე მაჩვენეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-16cfff6df3ceb643",
+      "text": "შორს არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9b8807422b595c63",
+      "text": "ფეხით მივალ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-fe8f113f31cac0f6",
+      "text": "მარჯვნივ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-789400d6fd061ace",
+      "text": "მარცხნივ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-587dbef62833ebb8",
+      "text": "პირდაპირ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f19b7702c7272a2c",
+      "text": "შემდეგ გაჩერებაზე.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-37a60262a8a5b7ed",
+      "text": "ბოლო გაჩერებაა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-259bdd3fd14fce71",
+      "text": "შესასვლელი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d4ca437a4316abfa",
+      "text": "გასასვლელი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-31eb0edb1cc17535",
+      "text": "ავტობუსი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6ab008e040e7d0f9",
+      "text": "მარშრუტკა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8d606d0213509483",
+      "text": "მატარებელი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-54b9780fcab17bbf",
+      "text": "ბილეთი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-058ccf61949d7d09",
+      "text": "სადგური",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-371fa6907274900d",
+      "text": "ქუჩა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-c7f3993e3b1dd6da",
+      "text": "მისამართი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d2ccfb628cdd1ec1",
+      "text": "ნული",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5686249cf4b630d0",
+      "text": "ერთი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-897e4c491a91e19d",
+      "text": "ორი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3c4ed808a4abd3bc",
+      "text": "სამი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d899cea3033ad05b",
+      "text": "ოთხი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-abeca8513b4149bd",
+      "text": "ხუთი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-c0a692bf70f45b0b",
+      "text": "ექვსი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8213071673d2ba01",
+      "text": "შვიდი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7fffc3eb3bda4745",
+      "text": "რვა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4a43f005362faf6e",
+      "text": "ცხრა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a53963eb98aa63b1",
+      "text": "ათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-88d8d95e05c44a42",
+      "text": "თერთმეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-269df753e526e21d",
+      "text": "თორმეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4eae99e9cfad8faa",
+      "text": "ცამეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a7c373c3d547f562",
+      "text": "თოთხმეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ddd92cf94be6f43a",
+      "text": "თხუთმეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-69f15ef7e71f683f",
+      "text": "თექვსმეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a82ab345ec7f1192",
+      "text": "ჩვიდმეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-585a8c1057129450",
+      "text": "თვრამეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e78db541ed28fe45",
+      "text": "ცხრამეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-98f7a8a5b4315a3f",
+      "text": "ოცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-56255e5090104592",
+      "text": "ოცდაერთი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-99006ec226f0d611",
+      "text": "ოცდაორი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3101397af508f37a",
+      "text": "ოცდახუთი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-845dc59c75795c08",
+      "text": "ოცდაათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8745ad47865fd27a",
+      "text": "ოცდათერთმეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b801fea4f8fd564a",
+      "text": "ოცდათხუთმეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-410ae994048be126",
+      "text": "ოცდაცხრამეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9e257812e549e5c6",
+      "text": "ორმოცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-16f180873f77956b",
+      "text": "ორმოცდახუთი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-1982e28cd8b89059",
+      "text": "ორმოცდაათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-729099908ce4f8c3",
+      "text": "სამოცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-abbec47a5672bf83",
+      "text": "სამოცდაათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-47fbfadbb67d09f5",
+      "text": "ოთხმოცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ecaeeb2d37eb353b",
+      "text": "ოთხმოცდაათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6f96f6db0cc05167",
+      "text": "ოთხმოცდაცხრამეტი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7d5b33af38c02942",
+      "text": "ასი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-78e3675e1eabc28f",
+      "text": "ას ერთი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-1659adc30807872b",
+      "text": "ას ორმოცდაათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0ffa1a811c33cf56",
+      "text": "ორასი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-51fcccefc1555ef8",
+      "text": "ხუთასი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-2b6fc411e3808d73",
+      "text": "ათასი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d75974346b45aa80",
+      "text": "ორი ათასი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-14c7ce6c5d9c2011",
+      "text": "ორი ლარი და ორმოცდაათი თეთრი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a8e1f7b9dcd3f2f1",
+      "text": "ხუთი ლარი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-eb00bc7b1b9d3d7d",
+      "text": "ნახევარი კილო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6a49b060a4464ed7",
+      "text": "ასი გრამი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0fd736947689439f",
+      "text": "ერთი ლიტრი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-32be4f8eb2f6c465",
+      "text": "პირველი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-58c64a8d7ab0d586",
+      "text": "მეორე",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-34a407fc2a3e4b49",
+      "text": "მესამე",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-984649843836405b",
+      "text": "ადამიანი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-28d405a3e9584669",
+      "text": "კაცი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-449816df623dc4a7",
+      "text": "ქალი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6b468d388f2cb12e",
+      "text": "ბავშვი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-436040da7f5e79ae",
+      "text": "ბიჭი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-09eded8e3bb89f08",
+      "text": "გოგო",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4459e87d00f11cc8",
+      "text": "მეგობარი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3a2a0a543bf6d4b8",
+      "text": "დედა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a5e7a3c5a9f840e2",
+      "text": "მამა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0c605875a0ace9b5",
+      "text": "მე",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4d94337510bcb4fc",
+      "text": "თქვენ",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4257ebd0ac934ebc",
+      "text": "ეს",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-60052ab87c278763",
+      "text": "ის",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-1c1f2ed0e9c3a889",
+      "text": "აქ",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d8675e72d0e8a839",
+      "text": "იქ",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-55acf5adb4f395d8",
+      "text": "სად?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a99e8a29b5b5bb10",
+      "text": "როდის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7efbd246999c4d5c",
+      "text": "რა?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-75adea3b22b442db",
+      "text": "რამდენი?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ab8703c1911d0ae8",
+      "text": "დღეს",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5a1e123bdcd71b6f",
+      "text": "ხვალ",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-cdb50374f2572dfc",
+      "text": "ახლა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0f22fe2c31e4b107",
+      "text": "მერე",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-cc2996fb59df0395",
+      "text": "წუთი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-75d8236783b869ca",
+      "text": "საათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-90501a5bdbe88ce5",
+      "text": "დიდი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0142ed414bd4a3a2",
+      "text": "პატარა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-323dd961e8bb8834",
+      "text": "ცუდი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a10a8d4eb20a665a",
+      "text": "და",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0b9c4bddf3cb2306",
+      "text": "მინდა…",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-09f5c7a916841abd",
+      "text": "არ მინდა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-add366fba258bb34",
+      "text": "დახმარება მჭირდება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e00aa0b77b7dd688",
+      "text": "დამეხმარეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-06b6e56afa7f3bea",
+      "text": "დავიკარგე.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-fea5a89d3e6435b1",
+      "text": "აფთიაქი სად არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a2ec5482af8bc99b",
+      "text": "ექიმი მჭირდება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f11e226a97b2bcaf",
+      "text": "ბანკომატი სად არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0091c358514ce004",
+      "text": "ინტერნეტი არ მუშაობს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6b00dcdb3ce79126",
+      "text": "ვაიფაის პაროლი რა არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5844a93f66bf20f7",
+      "text": "თხუთმეტი თქვით თუ ორმოცდაათი?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6756cdfb9135d67d",
+      "text": "ფასი მაჩვენეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-30ca332bef32be08",
+      "text": "ნომერი დამიწერეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-cf9271c83cd41d49",
+      "text": "ეს ვიგულისხმე.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8ee17008e7917ca6",
+      "text": "ეს არ შემიკვეთავს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-261aad971a59ed24",
+      "text": "კიდევ ერთი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-57182a7550ba18d1",
+      "text": "მხოლოდ ერთი, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-c17cceb9212f7da7",
+      "text": "იგივე, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-839986a1b7782c35",
+      "text": "შეგიძლიათ მაჩვენოთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-c2b20d090717d80b",
+      "text": "ეს სწორია?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-73681639f04e8673",
+      "text": "აქ შეცდომაა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-38fe311ce88b231a",
+      "text": "დამელოდეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-385889803c9f3115",
+      "text": "ნიგოზზე ალერგია მაქვს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7fad129fe240ad69",
+      "text": "მიწის თხილზე ალერგია მაქვს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bbccd7eae5bc395a",
+      "text": "რძეზე ალერგია მაქვს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9619c7b14ee37df1",
+      "text": "ამაში რძე არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-497394414d7ddabd",
+      "text": "ამაში კვერცხი არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f9cab9500dd4b888",
+      "text": "ამაში კარაქი არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-9973769d612dc345",
+      "text": "ქინძის გარეშე, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-75195154daf9ec8a",
+      "text": "ხორცისა და ხორცის ბულიონის გარეშე, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-20255a824164eba1",
+      "text": "ღორის ხორცს არ ვჭამ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6fd7652c250d1c0f",
+      "text": "ყველის გარეშე შეგიძლიათ მოამზადოთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-5de26d8f2f83e4a7",
+      "text": "მომსახურება ფასში შედის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ab732ead472603a7",
+      "text": "ცუდად ვარ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-c2eedf933257fea1",
+      "text": "აქ მტკივა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0b5dd35decfb2599",
+      "text": "სასწრაფო გამოიძახეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bb85422a184ed226",
+      "text": "პოლიცია გამოიძახეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6238cab510716d4f",
+      "text": "უახლოესი საავადმყოფო სად არის?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-29b13b89f27657dc",
+      "text": "ტელეფონი დავკარგე.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-649da6aa4a9a9470",
+      "text": "საფულე დავკარგე.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-e03a896c4da056a4",
+      "text": "შეიძლება თქვენი ტელეფონით ვისარგებლო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d6dc7e0d7972afaf",
+      "text": "ტელეფონი დამიჯდა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-ac7d054715b656ad",
+      "text": "რომელ საათზე იწყებთ მუშაობას?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-92f35eceba79ad50",
+      "text": "რომელ საათამდე მუშაობთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-78a222cef4610fa2",
+      "text": "ხვალ მუშაობთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-179682534a171e67",
+      "text": "ხვალ შეიძლება მოვიდე?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4cd561392011d8ec",
+      "text": "რომელი საათია?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bee20dd4f826efd5",
+      "text": "სამ საათზე.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b7146a274d9854ef",
+      "text": "ათ წუთში.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-aeddb65aabd1bb75",
+      "text": "რამდენ ხანს უნდა დაველოდო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f3a9dc75060b4757",
+      "text": "ვაგვიანებ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f6344259037c99f5",
+      "text": "ორშაბათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a20fd7938210e9e2",
+      "text": "სამშაბათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-88f59e82c063537f",
+      "text": "ოთხშაბათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b7323cdc7e943ec5",
+      "text": "ხუთშაბათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3832036e54eb59fc",
+      "text": "პარასკევი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-c183815d24d843aa",
+      "text": "შაბათი",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a7b96cc889b37818",
+      "text": "კვირა",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d2683f6122f4c313",
+      "text": "ჯავშანი მაქვს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-88d0ed2f830fd8bc",
+      "text": "გასაღები არ მუშაობს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6a97c1731ffeb22f",
+      "text": "ცხელი წყალი არ არის.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-61653cb9a89c4879",
+      "text": "დენი არ არის.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-a756920b8cdec380",
+      "text": "გათბობა არ მუშაობს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-26d308c6b1027614",
+      "text": "კონდიციონერი არ მუშაობს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0002d4d06d57cea1",
+      "text": "შეგიძლიათ შეაკეთოთ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-40b670aec2006c43",
+      "text": "რომელ საათზე უნდა გავიდე ნომრიდან?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7677c79f3f666c38",
+      "text": "შეიძლება ჩანთა აქ დავტოვო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-71ae4d6195045a83",
+      "text": "ნაგავი სად ჩავყარო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-939deea14763b236",
+      "text": "ეს სწორი მიმართულებაა?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b9d85b3eba7f9dae",
+      "text": "ეს ავტობუსი იქ ჩერდება?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-4db46f24ee4b7364",
+      "text": "როცა მივალთ, მითხარით, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-05698ed0f79f2b17",
+      "text": "ჩემს გაჩერებას გავცდი.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-011e8a3672419179",
+      "text": "სამგზავრო ბარათი სად შევავსო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-13ae29d7470fc2d9",
+      "text": "სხვა ავტობუსში უნდა გადავჯდე?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6f70ca277788ca20",
+      "text": "ეს ადგილი თავისუფალია?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-858f5a3c4df2ebad",
+      "text": "სად დაველოდო?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-71cea883f1737b59",
+      "text": "რა გქვიათ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-159d099f1cb44b6c",
+      "text": "სასიამოვნოა თქვენი გაცნობა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-83bb554fd450c6e9",
+      "text": "საიდან ხართ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-bfb306e2df9bcd6e",
+      "text": "აქ ვცხოვრობ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-46fae99c16bf93a0",
+      "text": "კარგ დღეს გისურვებთ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8a7e381df1f572f4",
+      "text": "ხვალამდე.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-59af0bb83df9135f",
+      "text": "საქართველო მომწონს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-efa025fa843536ac",
+      "text": "ალკოჰოლს არ ვსვამ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-845792ef5e699e68",
+      "text": "დახმარება არ მჭირდება, მადლობა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0266ab3c44ca3a88",
+      "text": "ასე ნუ აკეთებთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-90b80f34b04de667",
+      "text": "თავი დამანებეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-6187b4bcac688e2f",
+      "text": "არ შემეხოთ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f4015cfff0d82802",
+      "text": "აღარ გვაქვს.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-7ff2b6da2e6967cd",
+      "text": "ოცი წუთი დასჭირდება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f9626b569cd3cb82",
+      "text": "უნდა გადაჯდეთ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-2e9c7942173eed58",
+      "text": "გვერდით იკითხეთ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-8e2c961e4b016106",
+      "text": "ფასში შედის.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-79edabc552b81e07",
+      "text": "დამატებით უნდა გადაიხადოთ.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b5662ff014725c06",
+      "text": "დაელოდეთ, თუ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-964bfe86ee2dc4e1",
+      "text": "თქვენი ჯერია.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-0dfd52e0358751aa",
+      "text": "არ შეიძლება.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-d5fab2ba45f364a0",
+      "text": "სამწუხაროდ, არა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-b264010c55ee17ce",
+      "text": "რა თქმა უნდა.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-873858179b1a6e67",
+      "text": "პრობლემა არ არის.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-3bf20784d138b280",
+      "text": "ხვალ მოდით.",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    },
+    {
+      "id": "practical-f80cc4a939a9b2be",
+      "text": "სად გტკივათ?",
+      "extra": "Also preserve ejective კ and ჭ and distinguish them from aspirated ქ and ჩ. Read the Georgian word or phrase exactly as written, once, without adding any words."
+    }
+  ],
+  "cards": {
+    "Hello.": "practical-2098838dff058eef",
+    "Good morning.": "practical-22e02ae01044aa14",
+    "Good evening.": "practical-5d844353909fda03",
+    "Goodbye.": "practical-b6a2deeb41e93461",
+    "Thank you.": "practical-550780b911afa88c",
+    "Thank you very much.": "13-thanks",
+    "Please. (with a request)": "practical-a0adf3c22776749f",
+    "Excuse me. / Sorry.": "practical-f9b2d2a7ec4eff32",
+    "Yes. (everyday)": "practical-4d0a270ad8036f57",
+    "No.": "practical-d85ec87ffa8084c6",
+    "No, thank you.": "practical-6443e7ab780611ae",
+    "Okay. / All right.": "practical-ff500e27dc2a1471",
+    "You're welcome.": "practical-f85307582f62685e",
+    "How are you? (polite)": "practical-b72bdda0d0d7df6f",
+    "I'm well, thank you.": "practical-bfa817857471dd65",
+    "My name is…": "practical-9e67dc0ba9d393df",
+    "I don't understand.": "practical-41c8a9433193a1ce",
+    "I don't know.": "practical-d0c69c232e81ab3b",
+    "Please speak slowly.": "practical-d4d8bb016721880a",
+    "Please repeat.": "practical-3856730f7bbbe15d",
+    "Do you speak English? (polite)": "practical-44c657c4340c8e1e",
+    "I speak a little Georgian.": "practical-a2396438622db197",
+    "I'm learning Georgian.": "17-learning",
+    "Please write it down.": "practical-997cb0cbf1072ae4",
+    "What does this mean?": "practical-5a7fca21663d5cc8",
+    "How do you say this in Georgian?": "practical-450f9cac03ecf6f2",
+    "One moment, please.": "practical-6e5a23de17087367",
+    "You hear: ბოდიში.": "practical-878014ce56ef58e7",
+    "You hear: დიახ.": "practical-99d870d372adc0e9",
+    "You hear: მობრძანდით.": "practical-157d6c6aabd57733",
+    "How much does this cost?": "practical-e5754a5f38b26aac",
+    "How much is one kilo?": "practical-e7a4b67439398749",
+    "Do you have bread?": "practical-1c164afaa0a93a00",
+    "I would like this.": "practical-ec5c2125fdd09a89",
+    "One kilo of tomatoes, please.": "practical-485c26a6a2fa2647",
+    "Half a kilo of cheese, please.": "practical-06d98e1f6a2379c0",
+    "Two of these, please.": "practical-36e57ca8b43923b9",
+    "A little more, please.": "practical-57ddac2870ea182d",
+    "A little less, please.": "practical-64885d9e258ba42a",
+    "That's enough, thank you.": "practical-1a20e170fb20b9ca",
+    "Can I taste it?": "practical-6467c6f25f53cc21",
+    "Is it fresh?": "practical-0fe5202db26472b0",
+    "Is it sweet?": "practical-0aeadf571cd62140",
+    "It's expensive.": "practical-eec6b4941218f053",
+    "Can you lower the price?": "practical-9a63d34e33c756c6",
+    "Do you have a cheaper one?": "practical-deba9d86a8022603",
+    "Can I pay by card?": "practical-e42f2c3b8108d032",
+    "I'll pay in cash.": "practical-45dd84b6e2bad943",
+    "A bag, please.": "practical-2de0911818d2d32d",
+    "I don't need a bag.": "practical-6edd4a732dcca519",
+    "The receipt, please.": "practical-af314eec24ad95d5",
+    "Can I try it on?": "practical-fd4d79f582d9ed96",
+    "Do you have a larger size?": "practical-ffe8e355aedc5fd5",
+    "Do you have a smaller size?": "practical-5b5005eefe622a75",
+    "Where is the market?": "practical-377f08b76c78a1e0",
+    "You hear: კიდევ?": "practical-bdb0a0d0e47abce1",
+    "You hear: სულ ათი ლარია.": "practical-4f2f6a8a35255f0a",
+    "You hear: ხურდა გაქვთ?": "practical-92bd0a37469e75d2",
+    "You hear: მხოლოდ ნაღდი ფულით.": "practical-5bee7810179bd637",
+    "You hear: არ გვაქვს.": "practical-d4679e0dc1eb1509",
+    "You hear: ბარათით თუ ნაღდით?": "practical-9957cba1446789fc",
+    "Read the sign: ღიაა": "practical-be776a80af225858",
+    "Read the sign: დაკეტილია": "practical-bc904cad9b01563d",
+    "A table for two, please.": "practical-883332c6590782c2",
+    "The menu, please.": "practical-a60c006a1c2d8ed6",
+    "What do you recommend?": "practical-f8a6824c63b48010",
+    "I would like to order.": "practical-b333d224bcec63e3",
+    "This one, please. (pointing at the menu)": "practical-6f219ad6a4bf4a2f",
+    "Five khinkali, please.": "16-five-khinkali",
+    "One khachapuri, please.": "practical-991c290a4597582f",
+    "Water, please.": "10-water-please",
+    "Still water, please.": "practical-33f75ebd401058f7",
+    "Sparkling water, please.": "practical-8026f7e049136d1b",
+    "One coffee, please.": "practical-bd7c1c3f1badec1d",
+    "Tea without sugar, please.": "practical-49e3f35196a22c1a",
+    "Coffee with milk, please.": "practical-e7beec597f0ff6a0",
+    "One glass of red wine, please.": "practical-9107a7e181d39ede",
+    "Without meat, please.": "practical-e2fa314b82cc5b64",
+    "I'm a vegetarian.": "practical-e1529ba219e463b0",
+    "Does this contain meat?": "practical-bc3a3697bb1897ae",
+    "Does this contain walnuts?": "practical-9cd334687130f3ce",
+    "Without walnuts, please.": "practical-f68ca0bc4aef4f7d",
+    "Is it spicy?": "practical-50f4302230050fc8",
+    "Not spicy, please.": "practical-6fa56c9175d027bf",
+    "Salt, please.": "practical-9f9bfbb29124c66c",
+    "It's delicious.": "practical-681d98e7e476a347",
+    "The bill, please.": "practical-783c669723f6e62c",
+    "Can we pay separately?": "practical-c451508c9c1b40d2",
+    "Takeaway, please.": "practical-b2f8dcaf6894f2a6",
+    "Please pack this to take away.": "practical-4963f70b921d986f",
+    "Where is the toilet?": "practical-d07663e39c06b44e",
+    "You hear: აქ მიირთმევთ თუ წაიღებთ?": "practical-23cd65c8c3508d59",
+    "You hear: ინებეთ.": "practical-5ab427dafae1b9b8",
+    "You hear: გემრიელად მიირთვით.": "practical-13af9ac5ad8b6c27",
+    "bread": "practical-42913efccf517c38",
+    "cheese": "practical-2d093436753b64eb",
+    "milk": "practical-97e557b9e3ec9487",
+    "egg": "practical-54fdc00ae9f0ba0f",
+    "butter": "practical-8fd2728e13d44087",
+    "meat": "practical-15fd610a42e7914e",
+    "chicken (meat)": "practical-2bd529cb011f4107",
+    "beef": "practical-e91c5f975c1b0dc7",
+    "pork": "practical-8ee83f0fd21d6ffd",
+    "fish": "practical-1b8bb6e7e748fb1e",
+    "potato": "practical-4a73d83995f0f862",
+    "tomato": "practical-6c4b05b1765e8edb",
+    "cucumber": "practical-0ab8f3ac0252f69b",
+    "onion": "practical-8deaeee9e1470d3c",
+    "garlic": "practical-51e535e0cccbe637",
+    "eggplant / aubergine": "practical-7ee02bfb36100777",
+    "mushroom": "practical-afa559d64a98d150",
+    "beans / bean stew": "practical-e853e2deee0ac77d",
+    "fruit": "practical-6cf7bc319ef8f48f",
+    "vegetables": "practical-12a5c4dd9e758f5b",
+    "apple": "practical-ce3161f5c146f802",
+    "banana": "practical-7589183113c6b726",
+    "grapes": "practical-e019e381ef9b7910",
+    "watermelon": "practical-9549e714236516c6",
+    "peach": "practical-a00d217a2a056277",
+    "walnuts": "practical-6a8661ecdf81333f",
+    "hazelnuts": "practical-3bd5245c0980666a",
+    "honey": "practical-0d1c4e91e0a3178c",
+    "sugar": "practical-5d606c9a36322abe",
+    "salt": "practical-41b95d144811a7d3",
+    "rice": "practical-00e272f93587d6e3",
+    "water": "practical-c5a532a2188e266d",
+    "coffee": "practical-cb7009e16963dc3f",
+    "tea": "practical-538c79c83262fc1c",
+    "juice": "practical-5f3a0ff154f14313",
+    "beer": "practical-3c430695ed814b11",
+    "wine": "practical-682e4d505134d9e2",
+    "red wine": "practical-7f4077ca18be4c00",
+    "white wine": "practical-46885e557e88c1c6",
+    "dry wine": "practical-817f356b45172b91",
+    "khinkali (dumplings)": "practical-38006577b3fa72ac",
+    "khachapuri (cheese-filled bread)": "practical-9f278cabc57a889f",
+    "grilled meat on skewers": "practical-f6392c167f1814b8",
+    "vegetable-and-walnut appetizer": "practical-b4e8cca0bcf105cd",
+    "churchkhela (nuts in thickened grape juice)": "practical-662e3493d838db7d",
+    "sour plum sauce": "practical-3cf0482957486fd1",
+    "spicy / hot (chili heat)": "practical-9fabe55ea71cbd96",
+    "hot (temperature)": "practical-f9fb1f4833899d7e",
+    "cold": "practical-da70983e1bd8305a",
+    "sweet": "practical-03335e37e504c087",
+    "sour": "practical-090a5534816fb987",
+    "Where is the bus stop?": "practical-277614a78ff01fec",
+    "Where is the metro?": "practical-b9d631c0c749b9be",
+    "Does this bus go to the center?": "practical-f1b01a8cbd3d471c",
+    "Which bus goes to the station?": "practical-ef70ec21f01c4ee6",
+    "Where should I get off?": "practical-1c75712046d94b7b",
+    "Please stop here.": "practical-3f9a9aadb1b3b2fe",
+    "I'm getting off here.": "practical-d475dff58a2367f9",
+    "One ticket to Batumi, please.": "practical-24a2468745667bc7",
+    "How much is the ticket?": "practical-80a352ec1a97d732",
+    "When does the train leave?": "practical-d01a5fbc408b8672",
+    "How do I get to the airport?": "practical-655e6a0ecdd29b54",
+    "Please take me to this address.": "practical-14542deb1c980461",
+    "How long does it take?": "practical-a300e8b916b10eae",
+    "How do I pay?": "practical-a27454f0029f2c6c",
+    "Where can I buy a travel card?": "practical-15b9217cab0f392d",
+    "Please show me on the map.": "practical-fe7f726e43681375",
+    "Is it far?": "practical-16cfff6df3ceb643",
+    "Can I walk there?": "practical-9b8807422b595c63",
+    "You hear: მარჯვნივ.": "practical-fe8f113f31cac0f6",
+    "You hear: მარცხნივ.": "practical-789400d6fd061ace",
+    "You hear: პირდაპირ.": "practical-587dbef62833ebb8",
+    "You hear: შემდეგ გაჩერებაზე.": "practical-f19b7702c7272a2c",
+    "You hear: ბოლო გაჩერებაა.": "practical-37a60262a8a5b7ed",
+    "Read the sign: შესასვლელი": "practical-259bdd3fd14fce71",
+    "Read the sign: გასასვლელი": "practical-d4ca437a4316abfa",
+    "bus": "practical-31eb0edb1cc17535",
+    "minibus / shared van": "practical-6ab008e040e7d0f9",
+    "train": "practical-8d606d0213509483",
+    "ticket": "practical-54b9780fcab17bbf",
+    "station": "practical-058ccf61949d7d09",
+    "street": "practical-371fa6907274900d",
+    "address": "practical-c7f3993e3b1dd6da",
+    "0": "practical-d2ccfb628cdd1ec1",
+    "1": "practical-5686249cf4b630d0",
+    "2": "practical-897e4c491a91e19d",
+    "3": "practical-3c4ed808a4abd3bc",
+    "4": "practical-d899cea3033ad05b",
+    "5": "practical-abeca8513b4149bd",
+    "6": "practical-c0a692bf70f45b0b",
+    "7": "practical-8213071673d2ba01",
+    "8": "practical-7fffc3eb3bda4745",
+    "9": "practical-4a43f005362faf6e",
+    "10": "practical-a53963eb98aa63b1",
+    "11": "practical-88d8d95e05c44a42",
+    "12": "practical-269df753e526e21d",
+    "13": "practical-4eae99e9cfad8faa",
+    "14": "practical-a7c373c3d547f562",
+    "15": "practical-ddd92cf94be6f43a",
+    "16": "practical-69f15ef7e71f683f",
+    "17": "practical-a82ab345ec7f1192",
+    "18": "practical-585a8c1057129450",
+    "19": "practical-e78db541ed28fe45",
+    "20": "practical-98f7a8a5b4315a3f",
+    "21": "practical-56255e5090104592",
+    "22": "practical-99006ec226f0d611",
+    "25": "practical-3101397af508f37a",
+    "30": "practical-845dc59c75795c08",
+    "31": "practical-8745ad47865fd27a",
+    "35": "practical-b801fea4f8fd564a",
+    "39": "practical-410ae994048be126",
+    "40": "practical-9e257812e549e5c6",
+    "45": "practical-16f180873f77956b",
+    "50": "practical-1982e28cd8b89059",
+    "60": "practical-729099908ce4f8c3",
+    "70": "practical-abbec47a5672bf83",
+    "80": "practical-47fbfadbb67d09f5",
+    "90": "practical-ecaeeb2d37eb353b",
+    "99": "practical-6f96f6db0cc05167",
+    "100": "practical-7d5b33af38c02942",
+    "101": "practical-78e3675e1eabc28f",
+    "150": "practical-1659adc30807872b",
+    "200": "practical-0ffa1a811c33cf56",
+    "500": "practical-51fcccefc1555ef8",
+    "1,000": "practical-2b6fc411e3808d73",
+    "2,000": "practical-d75974346b45aa80",
+    "Two lari and fifty tetri.": "practical-14c7ce6c5d9c2011",
+    "Five lari.": "practical-a8e1f7b9dcd3f2f1",
+    "half a kilo": "practical-eb00bc7b1b9d3d7d",
+    "100 grams": "practical-6a49b060a4464ed7",
+    "one liter": "practical-0fd736947689439f",
+    "first": "practical-32be4f8eb2f6c465",
+    "second": "practical-58c64a8d7ab0d586",
+    "third": "practical-34a407fc2a3e4b49",
+    "person / human being": "practical-984649843836405b",
+    "man": "practical-28d405a3e9584669",
+    "woman": "practical-449816df623dc4a7",
+    "child": "practical-6b468d388f2cb12e",
+    "boy": "practical-436040da7f5e79ae",
+    "girl": "practical-09eded8e3bb89f08",
+    "friend": "practical-4459e87d00f11cc8",
+    "mother": "practical-3a2a0a543bf6d4b8",
+    "father": "practical-a5e7a3c5a9f840e2",
+    "I": "practical-0c605875a0ace9b5",
+    "you (polite or plural)": "practical-4d94337510bcb4fc",
+    "this": "practical-4257ebd0ac934ebc",
+    "that": "practical-60052ab87c278763",
+    "here": "practical-1c1f2ed0e9c3a889",
+    "there": "practical-d8675e72d0e8a839",
+    "where?": "practical-55acf5adb4f395d8",
+    "when?": "practical-a99e8a29b5b5bb10",
+    "what?": "practical-7efbd246999c4d5c",
+    "how much? / how many?": "practical-75adea3b22b442db",
+    "today": "practical-ab8703c1911d0ae8",
+    "tomorrow": "practical-5a1e123bdcd71b6f",
+    "now": "practical-cdb50374f2572dfc",
+    "later": "practical-0f22fe2c31e4b107",
+    "minute": "practical-cc2996fb59df0395",
+    "hour / clock / watch": "practical-75d8236783b869ca",
+    "big": "practical-90501a5bdbe88ce5",
+    "small": "practical-0142ed414bd4a3a2",
+    "good": "practical-ff500e27dc2a1471",
+    "bad": "practical-323dd961e8bb8834",
+    "and": "practical-a10a8d4eb20a665a",
+    "I want…": "practical-0b9c4bddf3cb2306",
+    "I don't want it.": "practical-09f5c7a916841abd",
+    "I need help.": "practical-add366fba258bb34",
+    "Help me, please.": "practical-e00aa0b77b7dd688",
+    "I'm lost.": "practical-06b6e56afa7f3bea",
+    "Where is the pharmacy?": "practical-fea5a89d3e6435b1",
+    "I need a doctor.": "practical-a2ec5482af8bc99b",
+    "Where is the ATM?": "practical-f11e226a97b2bcaf",
+    "The internet isn't working.": "practical-0091c358514ce004",
+    "What is the Wi-Fi password?": "practical-6b00dcdb3ce79126",
+    "Did you say fifteen or fifty?": "practical-5844a93f66bf20f7",
+    "Please show me the price.": "practical-6756cdfb9135d67d",
+    "Please write the number down.": "practical-30ca332bef32be08",
+    "I meant this one.": "practical-cf9271c83cd41d49",
+    "That's not what I ordered.": "practical-8ee17008e7917ca6",
+    "One more, please.": "practical-261aad971a59ed24",
+    "Only one, please.": "practical-57182a7550ba18d1",
+    "The same, please.": "practical-c17cceb9212f7da7",
+    "Can you show me?": "practical-839986a1b7782c35",
+    "Is this correct?": "practical-c2b20d090717d80b",
+    "There's a mistake here.": "practical-73681639f04e8673",
+    "Please wait for me.": "practical-38fe311ce88b231a",
+    "I'm allergic to walnuts.": "practical-385889803c9f3115",
+    "I'm allergic to peanuts.": "practical-7fad129fe240ad69",
+    "I'm allergic to milk.": "practical-bbccd7eae5bc395a",
+    "Does this contain milk?": "practical-9619c7b14ee37df1",
+    "Does this contain eggs?": "practical-497394414d7ddabd",
+    "Does this contain butter?": "practical-f9cab9500dd4b888",
+    "Without coriander, please.": "practical-9973769d612dc345",
+    "Without meat or meat broth, please.": "practical-75195154daf9ec8a",
+    "I don't eat pork.": "practical-20255a824164eba1",
+    "Can you make it without cheese?": "practical-6fd7652c250d1c0f",
+    "Is service included in the price?": "practical-5de26d8f2f83e4a7",
+    "I feel unwell.": "practical-ab732ead472603a7",
+    "It hurts here.": "practical-c2eedf933257fea1",
+    "Please call an ambulance.": "practical-0b5dd35decfb2599",
+    "Please call the police.": "practical-bb85422a184ed226",
+    "Where is the nearest hospital?": "practical-6238cab510716d4f",
+    "I lost my phone.": "practical-29b13b89f27657dc",
+    "I lost my wallet.": "practical-649da6aa4a9a9470",
+    "May I use your phone?": "practical-e03a896c4da056a4",
+    "My phone battery is dead.": "practical-d6dc7e0d7972afaf",
+    "What time do you open?": "practical-ac7d054715b656ad",
+    "Until what time are you open?": "practical-92f35eceba79ad50",
+    "Are you open tomorrow?": "practical-78a222cef4610fa2",
+    "Can I come tomorrow?": "practical-179682534a171e67",
+    "What time is it?": "practical-4cd561392011d8ec",
+    "At three o'clock.": "practical-bee20dd4f826efd5",
+    "In ten minutes.": "practical-b7146a274d9854ef",
+    "How long should I wait?": "practical-aeddb65aabd1bb75",
+    "I'm late.": "practical-f3a9dc75060b4757",
+    "Monday": "practical-f6344259037c99f5",
+    "Tuesday": "practical-a20fd7938210e9e2",
+    "Wednesday": "practical-88f59e82c063537f",
+    "Thursday": "practical-b7323cdc7e943ec5",
+    "Friday": "practical-3832036e54eb59fc",
+    "Saturday": "practical-c183815d24d843aa",
+    "Sunday": "practical-a7b96cc889b37818",
+    "I have a reservation.": "practical-d2683f6122f4c313",
+    "The key doesn't work.": "practical-88d0ed2f830fd8bc",
+    "There is no hot water.": "practical-6a97c1731ffeb22f",
+    "There is no electricity.": "practical-61653cb9a89c4879",
+    "The heating isn't working.": "practical-a756920b8cdec380",
+    "The air conditioner isn't working.": "practical-26d308c6b1027614",
+    "Can you fix it?": "practical-0002d4d06d57cea1",
+    "At what time should I check out?": "practical-40b670aec2006c43",
+    "Can I leave my bag here?": "practical-7677c79f3f666c38",
+    "Where do I put the rubbish?": "practical-71ae4d6195045a83",
+    "Is this the right direction?": "practical-939deea14763b236",
+    "Does this bus stop there?": "practical-b9d85b3eba7f9dae",
+    "Please tell me when we arrive.": "practical-4db46f24ee4b7364",
+    "I missed my stop.": "practical-05698ed0f79f2b17",
+    "Where can I top up my travel card?": "practical-011e8a3672419179",
+    "Do I need to change buses?": "practical-13ae29d7470fc2d9",
+    "Is this seat free?": "practical-6f70ca277788ca20",
+    "Where should I wait?": "practical-858f5a3c4df2ebad",
+    "What's your name? (polite)": "practical-71cea883f1737b59",
+    "Nice to meet you.": "practical-159d099f1cb44b6c",
+    "Where are you from? (polite)": "practical-83bb554fd450c6e9",
+    "I live here.": "practical-bfb306e2df9bcd6e",
+    "Have a good day.": "practical-46fae99c16bf93a0",
+    "See you tomorrow.": "practical-8a7e381df1f572f4",
+    "I like Georgia.": "practical-59af0bb83df9135f",
+    "I don't drink alcohol.": "practical-efa025fa843536ac",
+    "I don't need help, thank you.": "practical-845792ef5e699e68",
+    "Please don't do that.": "practical-0266ab3c44ca3a88",
+    "Please leave me alone.": "practical-90b80f34b04de667",
+    "Don't touch me.": "practical-6187b4bcac688e2f",
+    "You hear: აღარ გვაქვს.": "practical-f4015cfff0d82802",
+    "You hear: ოცი წუთი დასჭირდება.": "practical-7ff2b6da2e6967cd",
+    "You hear: უნდა გადაჯდეთ.": "practical-f9626b569cd3cb82",
+    "You hear: გვერდით იკითხეთ.": "practical-2e9c7942173eed58",
+    "You hear: ფასში შედის.": "practical-8e2c961e4b016106",
+    "You hear: დამატებით უნდა გადაიხადოთ.": "practical-79edabc552b81e07",
+    "You hear: დაელოდეთ, თუ შეიძლება.": "practical-b5662ff014725c06",
+    "You hear: თქვენი ჯერია.": "practical-964bfe86ee2dc4e1",
+    "You hear: არ შეიძლება.": "practical-0dfd52e0358751aa",
+    "You hear: სამწუხაროდ, არა.": "practical-d5fab2ba45f364a0",
+    "You hear: რა თქმა უნდა.": "practical-b264010c55ee17ce",
+    "You hear: პრობლემა არ არის.": "practical-873858179b1a6e67",
+    "You hear: ხვალ მოდით.": "practical-3bf20784d138b280",
+    "You hear: სად გტკივათ?": "practical-f80cc4a939a9b2be"
+  }
+}

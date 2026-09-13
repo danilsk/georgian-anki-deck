@@ -1,0 +1,2647 @@
+{
+  "notes": 378,
+  "cards": 396,
+  "practical_cards": 360,
+  "pronunciation_read_aloud_cards": 18,
+  "listening_cards": 18,
+  "core_notes": 141,
+  "tags": {
+    "georgian": 378,
+    "audio": 378,
+    "courtesy": 30,
+    "core": 141,
+    "shopping": 34,
+    "recognition": 35,
+    "restaurant": 32,
+    "food": 61,
+    "transport": 40,
+    "numbers": 51,
+    "basics": 34,
+    "help": 14,
+    "clarification": 12,
+    "expansion": 92,
+    "time": 16,
+    "accommodation": 10,
+    "replies": 14,
+    "social": 7,
+    "boundaries": 5,
+    "pronunciation": 18
+  },
+  "media_files": 373,
+  "audio": [
+    {
+      "filename": "ge_essentials_01-furi-puri.wav",
+      "seconds": 2.12,
+      "peak": 21156,
+      "rms": 3138.1,
+      "sha256": "aaab2fce3f2de8227621a6f556acec05771a8a4aaf8129801d7e4927d00a8140"
+    },
+    {
+      "filename": "ge_essentials_02-taro.wav",
+      "seconds": 2.44,
+      "peak": 24766,
+      "rms": 2859.4,
+      "sha256": "ac7b93a8e9f894512de018c79e28e3ec421f89594e27248775443eb4fe4e1e3a"
+    },
+    {
+      "filename": "ge_essentials_03-kari.wav",
+      "seconds": 2.36,
+      "peak": 24281,
+      "rms": 1764.6,
+      "sha256": "34487fb2794afefff2c8ca4c0bb31c2ea61696a3714d1481102c4b51865feaea"
+    },
+    {
+      "filename": "ge_essentials_04-tseli.wav",
+      "seconds": 2.28,
+      "peak": 22174,
+      "rms": 2968.2,
+      "sha256": "0250fb6ed195257e43e045826bfe384ba7ca59b882c901e272d64e6f6e6a49c3"
+    },
+    {
+      "filename": "ge_essentials_05-chiri.wav",
+      "seconds": 3.28,
+      "peak": 20730,
+      "rms": 2078.6,
+      "sha256": "fbae51f8d529f39d90c2f5b3e01cf1846564540a0cd924cf9313b845e014fab3"
+    },
+    {
+      "filename": "ge_essentials_06-man-woman.wav",
+      "seconds": 2.2,
+      "peak": 31497,
+      "rms": 2555.3,
+      "sha256": "2a4401e66dc79e449ed199770193b556ed9fea00fd779924922c4b1079d40c8b"
+    },
+    {
+      "filename": "ge_essentials_07-bread-please.wav",
+      "seconds": 2.16,
+      "peak": 22806,
+      "rms": 3647.3,
+      "sha256": "11e4d933bfc2536f2a09195ba28b3cca17c4f1cd150ab0764d82bd86fb522617"
+    },
+    {
+      "filename": "ge_essentials_08-white-bread.wav",
+      "seconds": 1.52,
+      "peak": 20534,
+      "rms": 3308.5,
+      "sha256": "bb446fd356ce180bc3ebaa82eabd736069fda7d13593404caab72bbb5554eb6e"
+    },
+    {
+      "filename": "ge_essentials_09-hot-tea.wav",
+      "seconds": 1.6,
+      "peak": 25866,
+      "rms": 3166.7,
+      "sha256": "74af7180e7dd9079134c12d4b9aeb50ae5457807b758c2ce3778e8cfa1ebefda"
+    },
+    {
+      "filename": "ge_essentials_10-water-please.wav",
+      "seconds": 2.2,
+      "peak": 18537,
+      "rms": 1655.4,
+      "sha256": "906cfe48da7f02400f3b1b72affb0a7e929295014cc19ec97d13d795d51f8e42"
+    },
+    {
+      "filename": "ge_essentials_11-coffee-cheese.wav",
+      "seconds": 2.0,
+      "peak": 27179,
+      "rms": 3255.9,
+      "sha256": "1408eb0bbdcfab44aebcf0f7edb3af562c434d854fa733a760f73ecdc004e972"
+    },
+    {
+      "filename": "ge_essentials_12-wine-fruit.wav",
+      "seconds": 2.36,
+      "peak": 19648,
+      "rms": 2983.6,
+      "sha256": "89eed88473e00a2dc42bda383917e8679de8564de9672211d803f7fcd2c404de"
+    },
+    {
+      "filename": "ge_essentials_13-thanks.wav",
+      "seconds": 1.56,
+      "peak": 18971,
+      "rms": 3074.7,
+      "sha256": "e0d3a0d3b1c27e598372b629c45b20318baf8801097f36dd7fea9af5a2e1e8c0"
+    },
+    {
+      "filename": "ge_essentials_14-frog.wav",
+      "seconds": 2.8,
+      "peak": 30092,
+      "rms": 2958.2,
+      "sha256": "a757364db3f86b5ab4065719934f2fe9514dfc623fdb642587c7900ab7f2dd37"
+    },
+    {
+      "filename": "ge_essentials_15-numbers.wav",
+      "seconds": 3.88,
+      "peak": 32767,
+      "rms": 3739.2,
+      "sha256": "e3b60fe17a0369f6a081a19875ef8aac81d89c7d63f330c7b95a974b43dac48f"
+    },
+    {
+      "filename": "ge_essentials_16-five-khinkali.wav",
+      "seconds": 2.56,
+      "peak": 20586,
+      "rms": 3155.1,
+      "sha256": "2604cfb616a6bf6ff6f9309b2bdd3b6e86d6204668459275cac5b9ddf0820286"
+    },
+    {
+      "filename": "ge_essentials_17-learning.wav",
+      "seconds": 2.24,
+      "peak": 28948,
+      "rms": 2248.8,
+      "sha256": "a1e23c6642727e32d4c37df5d3cbb43df5d86b529b62456fd2606a1b5f2e065e"
+    },
+    {
+      "filename": "ge_essentials_18-tetri.wav",
+      "seconds": 1.64,
+      "peak": 30876,
+      "rms": 3293.7,
+      "sha256": "aa32dca46e9331c0c82ff88d1c115b12ee3f03b89152cc7b81b2259dc3e26ecf"
+    },
+    {
+      "filename": "ge_essentials_practical-2098838dff058eef.wav",
+      "seconds": 1.4,
+      "peak": 21832,
+      "rms": 2586.7,
+      "sha256": "f0d51aba7e2304c9d2a40ff81a5933fdecd2938dc54c85109253a76a0b82cbd0"
+    },
+    {
+      "filename": "ge_essentials_practical-22e02ae01044aa14.wav",
+      "seconds": 1.72,
+      "peak": 30379,
+      "rms": 4606.0,
+      "sha256": "8b7fc85e552306c0c2e4f659454be7cc46bada3263c3d7ce4c017a7b31e50165"
+    },
+    {
+      "filename": "ge_essentials_practical-5d844353909fda03.wav",
+      "seconds": 2.04,
+      "peak": 28412,
+      "rms": 3234.7,
+      "sha256": "f2d62bd54a052625cd1f6ad73059e164071b160d04368af41f498b922f6fc6d0"
+    },
+    {
+      "filename": "ge_essentials_practical-b6a2deeb41e93461.wav",
+      "seconds": 1.44,
+      "peak": 20944,
+      "rms": 2759.1,
+      "sha256": "c98530c5a35e2840f363ae0283fec2b27b4423a9c7f379321c6098326214cdb2"
+    },
+    {
+      "filename": "ge_essentials_practical-550780b911afa88c.wav",
+      "seconds": 1.2,
+      "peak": 32180,
+      "rms": 3584.6,
+      "sha256": "bb0b2d01b0a8fad73aead37c057da31f3aa17e374fd2027b9651adaf57aefe5f"
+    },
+    {
+      "filename": "ge_essentials_practical-a0adf3c22776749f.wav",
+      "seconds": 1.64,
+      "peak": 11202,
+      "rms": 1520.8,
+      "sha256": "c179beb21760389415a3d41ac609770a5981c1a5ca3d6229d6223fb75eb5bf91"
+    },
+    {
+      "filename": "ge_essentials_practical-f9b2d2a7ec4eff32.wav",
+      "seconds": 1.4,
+      "peak": 22653,
+      "rms": 2552.0,
+      "sha256": "fec82a1de7355ef7d822edd60589d3a48977fb20384039f0b1a6e74fabbb7cc9"
+    },
+    {
+      "filename": "ge_essentials_practical-4d0a270ad8036f57.wav",
+      "seconds": 0.92,
+      "peak": 18494,
+      "rms": 2845.2,
+      "sha256": "179484391af94058eaea83024a779eaa3afd3619a6c7dfb1bcdd82d3ab7d465a"
+    },
+    {
+      "filename": "ge_essentials_practical-d85ec87ffa8084c6.wav",
+      "seconds": 1.2,
+      "peak": 22677,
+      "rms": 2014.3,
+      "sha256": "45beb6001763744f3f49a5eb755e640389809a59c9087a21ae1d85ff0d7924b5"
+    },
+    {
+      "filename": "ge_essentials_practical-6443e7ab780611ae.wav",
+      "seconds": 2.24,
+      "peak": 32768,
+      "rms": 2227.2,
+      "sha256": "592739f87edd771dcbc9c9a5bf0ea55ebb6583318c993b5a4211f669fb97a48e"
+    },
+    {
+      "filename": "ge_essentials_practical-ff500e27dc2a1471.wav",
+      "seconds": 1.12,
+      "peak": 25841,
+      "rms": 2157.7,
+      "sha256": "3f262514a98b7046436af9aa26dac24d2a7b7ee36bb66e280f374d5ba312f0f7"
+    },
+    {
+      "filename": "ge_essentials_practical-f85307582f62685e.wav",
+      "seconds": 1.2,
+      "peak": 27131,
+      "rms": 1988.9,
+      "sha256": "7bd4438adca33edf5932b7a7d838b4e27256b6a1f279cc6c1300da7a93cafe3d"
+    },
+    {
+      "filename": "ge_essentials_practical-b72bdda0d0d7df6f.wav",
+      "seconds": 1.36,
+      "peak": 32713,
+      "rms": 3268.3,
+      "sha256": "915cd30fa9648f8e2a18e4443552794aaa902c58d3cf22c1d87eb3c8c910eb44"
+    },
+    {
+      "filename": "ge_essentials_practical-bfa817857471dd65.wav",
+      "seconds": 2.2,
+      "peak": 28799,
+      "rms": 3519.1,
+      "sha256": "3bd5d9acfad1120822f5cd6485cad97b1abd021ddd796c114d76c28008bd4706"
+    },
+    {
+      "filename": "ge_essentials_practical-9e67dc0ba9d393df.wav",
+      "seconds": 1.92,
+      "peak": 26406,
+      "rms": 3054.4,
+      "sha256": "d1dbb7c6756b39d19f4b31bac42744d9cc5316af733f4265672856bff367896d"
+    },
+    {
+      "filename": "ge_essentials_practical-41c8a9433193a1ce.wav",
+      "seconds": 1.44,
+      "peak": 28802,
+      "rms": 2995.0,
+      "sha256": "56f88c0ec00def5aa7dd4357e1552dd0d0305863c9055256348c0c7ded4c0d5f"
+    },
+    {
+      "filename": "ge_essentials_practical-d0c69c232e81ab3b.wav",
+      "seconds": 1.16,
+      "peak": 16621,
+      "rms": 1625.8,
+      "sha256": "56c027afccfebb60fcb28bc1a42549d5c40ad011cb368ea4edc1f74ac5620269"
+    },
+    {
+      "filename": "ge_essentials_practical-d4d8bb016721880a.wav",
+      "seconds": 3.08,
+      "peak": 28804,
+      "rms": 4718.8,
+      "sha256": "473348d68f2a9673c6136fc85c0bb5bbd9a401ad7ad801b51acb5d53cc3af94f"
+    },
+    {
+      "filename": "ge_essentials_practical-3856730f7bbbe15d.wav",
+      "seconds": 2.52,
+      "peak": 27538,
+      "rms": 4419.7,
+      "sha256": "45c8a854dcb0b1ef3b1a368ca003a2f33d5a4c50bfc0befe1f8339944e9431eb"
+    },
+    {
+      "filename": "ge_essentials_practical-44c657c4340c8e1e.wav",
+      "seconds": 2.28,
+      "peak": 27370,
+      "rms": 4157.0,
+      "sha256": "a6307ef0fc9e7704813363e3ecbd89915c7f6ae43767e783a2ded6a637114217"
+    },
+    {
+      "filename": "ge_essentials_practical-a2396438622db197.wav",
+      "seconds": 2.4,
+      "peak": 29796,
+      "rms": 3789.7,
+      "sha256": "484d5ba638345bb5bc59736fc3d19e45fcd0658ae9d5887161f42c47c0719c26"
+    },
+    {
+      "filename": "ge_essentials_practical-997cb0cbf1072ae4.wav",
+      "seconds": 2.32,
+      "peak": 22192,
+      "rms": 2800.2,
+      "sha256": "159c46fac6d3855e31c15d72b124a360666ec10dfe1b05f878b2127323bc6e02"
+    },
+    {
+      "filename": "ge_essentials_practical-5a7fca21663d5cc8.wav",
+      "seconds": 1.6,
+      "peak": 17268,
+      "rms": 2319.2,
+      "sha256": "f71c33189348740f96af0eb5dba43d1407eced061dfb7fd25cb3c1ca889a0318"
+    },
+    {
+      "filename": "ge_essentials_practical-450f9cac03ecf6f2.wav",
+      "seconds": 2.32,
+      "peak": 23781,
+      "rms": 3077.5,
+      "sha256": "b928c211f3081a35461cffad36695fb748ee322bffdad716390fa15373b69f90"
+    },
+    {
+      "filename": "ge_essentials_practical-6e5a23de17087367.wav",
+      "seconds": 2.2,
+      "peak": 20402,
+      "rms": 2472.4,
+      "sha256": "ca49e3ec4707247b89046057bba42c0dea1732e753019a56e69aef766351bb5f"
+    },
+    {
+      "filename": "ge_essentials_practical-878014ce56ef58e7.wav",
+      "seconds": 1.2,
+      "peak": 26414,
+      "rms": 3215.2,
+      "sha256": "4f591072fcefb95c4db942af5f3014ce96d7a761e1dc1ba29b2fa25df67656b9"
+    },
+    {
+      "filename": "ge_essentials_practical-99d870d372adc0e9.wav",
+      "seconds": 1.08,
+      "peak": 15795,
+      "rms": 2454.1,
+      "sha256": "8ec28ee2085b8a6396a01a841dc7c02854a87f4ac1540db62c926606a34f0aa9"
+    },
+    {
+      "filename": "ge_essentials_practical-157d6c6aabd57733.wav",
+      "seconds": 1.36,
+      "peak": 18363,
+      "rms": 2682.3,
+      "sha256": "80101c5a37fa1292a0451386bd21a59de6c6da836e049740f323089a0f6a5b04"
+    },
+    {
+      "filename": "ge_essentials_practical-e5754a5f38b26aac.wav",
+      "seconds": 1.64,
+      "peak": 32604,
+      "rms": 3356.2,
+      "sha256": "d95cc428ea01df6cd41c7ffb9b45daa7ca06a79a1d367539b16997016fa64558"
+    },
+    {
+      "filename": "ge_essentials_practical-e7a4b67439398749.wav",
+      "seconds": 2.0,
+      "peak": 21009,
+      "rms": 2907.7,
+      "sha256": "e4d9fdcb4ea4691226114d4ef38d0350fa3fc57fd7d9132d1605783ebc29a8a7"
+    },
+    {
+      "filename": "ge_essentials_practical-1c164afaa0a93a00.wav",
+      "seconds": 1.76,
+      "peak": 23471,
+      "rms": 3115.7,
+      "sha256": "aa90efb85e7cbe7820333b099159ff399020976c28c1232407a14a083db7b2b5"
+    },
+    {
+      "filename": "ge_essentials_practical-ec5c2125fdd09a89.wav",
+      "seconds": 1.6,
+      "peak": 22423,
+      "rms": 3371.0,
+      "sha256": "079e15570a40d7737cb6acff4d04a33a3aaf0a0b49d8772deb388cafb8b52221"
+    },
+    {
+      "filename": "ge_essentials_practical-485c26a6a2fa2647.wav",
+      "seconds": 2.76,
+      "peak": 30427,
+      "rms": 4869.5,
+      "sha256": "2c6bc9c94752b0eedf02eeeaf9c9f3d2b1b77ec7636107c94a87983c54b3e50c"
+    },
+    {
+      "filename": "ge_essentials_practical-06d98e1f6a2379c0.wav",
+      "seconds": 2.64,
+      "peak": 24294,
+      "rms": 3521.7,
+      "sha256": "fc99e299d558b62a79939a411a078b7d9f76ec2503f1ac36ea0f732e637f2453"
+    },
+    {
+      "filename": "ge_essentials_practical-36e57ca8b43923b9.wav",
+      "seconds": 2.28,
+      "peak": 31218,
+      "rms": 3339.4,
+      "sha256": "1426c1a8df2db05ec9958835fcadc556ca3bf09b1a754f5678589e2baf788b99"
+    },
+    {
+      "filename": "ge_essentials_practical-57ddac2870ea182d.wav",
+      "seconds": 2.4,
+      "peak": 19927,
+      "rms": 2176.7,
+      "sha256": "804d189e4ccf1f2e80cfcfd80b534a55652483c71e676da98c3d5a98cbe92802"
+    },
+    {
+      "filename": "ge_essentials_practical-64885d9e258ba42a.wav",
+      "seconds": 2.48,
+      "peak": 16837,
+      "rms": 1966.5,
+      "sha256": "49e605f66b2af4cfdb97787aaa8e5fa791158a1c1c8ad82d80e8ff8efbd4ed98"
+    },
+    {
+      "filename": "ge_essentials_practical-1a20e170fb20b9ca.wav",
+      "seconds": 2.28,
+      "peak": 29850,
+      "rms": 2450.5,
+      "sha256": "ef5d954e084c232327ffbc7e7da9cd7843889c59f9cca47b083d9fb31861fbac"
+    },
+    {
+      "filename": "ge_essentials_practical-6467c6f25f53cc21.wav",
+      "seconds": 2.24,
+      "peak": 26651,
+      "rms": 3475.7,
+      "sha256": "14ed53cf93c431d661d5b81773ccd35c583b65c26fab5c4db1a170f9805f6a18"
+    },
+    {
+      "filename": "ge_essentials_practical-0fe5202db26472b0.wav",
+      "seconds": 1.52,
+      "peak": 25356,
+      "rms": 3026.0,
+      "sha256": "1a8985c3c0ee07c3b67043a0ec86abf8268cfb5f8e182b80ff5092ddd11a6a2f"
+    },
+    {
+      "filename": "ge_essentials_practical-0aeadf571cd62140.wav",
+      "seconds": 1.56,
+      "peak": 20681,
+      "rms": 2058.3,
+      "sha256": "4f6b4660bc972825d67cfd6f1df723e43f74fab76ca34c35f13e4e957d72955b"
+    },
+    {
+      "filename": "ge_essentials_practical-eec6b4941218f053.wav",
+      "seconds": 1.6,
+      "peak": 20338,
+      "rms": 3099.3,
+      "sha256": "a67ba5e841dafe989d4d3d93354d2a0db7a6847840872793f078009ab990e9c2"
+    },
+    {
+      "filename": "ge_essentials_practical-9a63d34e33c756c6.wav",
+      "seconds": 2.16,
+      "peak": 28316,
+      "rms": 3438.3,
+      "sha256": "5ca22997bd24be49e9e09e731575f32a5c3598e54c13ae7b765f7a6a5f76824f"
+    },
+    {
+      "filename": "ge_essentials_practical-deba9d86a8022603.wav",
+      "seconds": 2.28,
+      "peak": 27551,
+      "rms": 4369.2,
+      "sha256": "8cf36d7b35b0b2c688cb5f033729bb146d50516d07d3d25c2abb66f94daccdfb"
+    },
+    {
+      "filename": "ge_essentials_practical-e42f2c3b8108d032.wav",
+      "seconds": 2.12,
+      "peak": 32486,
+      "rms": 3843.1,
+      "sha256": "d68b7e3af433a0fa29241c57fa90f4a047b23a42f2ecadaafb5fcb702a9e3f8c"
+    },
+    {
+      "filename": "ge_essentials_practical-45dd84b6e2bad943.wav",
+      "seconds": 2.12,
+      "peak": 29675,
+      "rms": 3375.3,
+      "sha256": "7c1a1b9ce5c5b756dd388fbda773d95d50f370b76bf50e2e09540e7d3cb37d7e"
+    },
+    {
+      "filename": "ge_essentials_practical-2de0911818d2d32d.wav",
+      "seconds": 1.92,
+      "peak": 27694,
+      "rms": 2681.9,
+      "sha256": "972e59ba848e3d78a7e6cfbc91430f6fff3afe824668217f40bc95ea0f5491a3"
+    },
+    {
+      "filename": "ge_essentials_practical-6edd4a732dcca519.wav",
+      "seconds": 2.32,
+      "peak": 32767,
+      "rms": 2819.6,
+      "sha256": "54c7475a2bc84a72b435dbe286e34559c3505108c11843f9ddce1762d7f43a16"
+    },
+    {
+      "filename": "ge_essentials_practical-af314eec24ad95d5.wav",
+      "seconds": 2.48,
+      "peak": 24359,
+      "rms": 3092.1,
+      "sha256": "df20e3b7bd674923a8ab4a9ccb227203e151e01f38fc7077d1904b0de60eb466"
+    },
+    {
+      "filename": "ge_essentials_practical-fd4d79f582d9ed96.wav",
+      "seconds": 1.76,
+      "peak": 29104,
+      "rms": 3109.6,
+      "sha256": "0d5cf6a0c83c039b3b01103179afc357ee7cfd2620fd3925a425068cc4cdca18"
+    },
+    {
+      "filename": "ge_essentials_practical-ffe8e355aedc5fd5.wav",
+      "seconds": 2.32,
+      "peak": 23535,
+      "rms": 4046.2,
+      "sha256": "d2c23a692936393eaaf0f0b15df8c4b2a3e550ba6636fca404c884da1277b9b5"
+    },
+    {
+      "filename": "ge_essentials_practical-5b5005eefe622a75.wav",
+      "seconds": 2.36,
+      "peak": 28028,
+      "rms": 3141.2,
+      "sha256": "77c69a8f832efc98cb9f0bef19a7e487e3f6881f75e28d715287080f0d74e630"
+    },
+    {
+      "filename": "ge_essentials_practical-377f08b76c78a1e0.wav",
+      "seconds": 2.44,
+      "peak": 32767,
+      "rms": 3430.1,
+      "sha256": "6a9980ea68f2cc1e064cb82c954394c67226d2609daec0d7021488899303a81b"
+    },
+    {
+      "filename": "ge_essentials_practical-bdb0a0d0e47abce1.wav",
+      "seconds": 1.24,
+      "peak": 19900,
+      "rms": 2765.5,
+      "sha256": "4e0f0ef146941daa803214402b6eb5373273ca3343f7728a777a6c7ef638a79d"
+    },
+    {
+      "filename": "ge_essentials_practical-4f2f6a8a35255f0a.wav",
+      "seconds": 1.88,
+      "peak": 28105,
+      "rms": 3184.0,
+      "sha256": "0287ffca377078775553bc620992c65589d35a90e9a85793f69361ae0606555f"
+    },
+    {
+      "filename": "ge_essentials_practical-92bd0a37469e75d2.wav",
+      "seconds": 1.52,
+      "peak": 22981,
+      "rms": 3453.4,
+      "sha256": "b7b94aa6aadaa1d15af092986ec34ee9105020b13a2c6adc2a556be0fec0a2c2"
+    },
+    {
+      "filename": "ge_essentials_practical-5bee7810179bd637.wav",
+      "seconds": 2.64,
+      "peak": 29277,
+      "rms": 3322.9,
+      "sha256": "e985efff5652ae182a421442a374cd7697126d958049c6ff3ef537a4f381f184"
+    },
+    {
+      "filename": "ge_essentials_practical-d4679e0dc1eb1509.wav",
+      "seconds": 1.28,
+      "peak": 26149,
+      "rms": 2771.4,
+      "sha256": "4d2986687dcf7663da6753a491619fbb793021e05a2088e74c3093550cec15af"
+    },
+    {
+      "filename": "ge_essentials_practical-9957cba1446789fc.wav",
+      "seconds": 3.0,
+      "peak": 27440,
+      "rms": 3337.4,
+      "sha256": "3358278f1d98f2e163c49023813662b43e6bb6d9ce43d81a407ebfc230386452"
+    },
+    {
+      "filename": "ge_essentials_practical-be776a80af225858.wav",
+      "seconds": 1.32,
+      "peak": 27720,
+      "rms": 4532.6,
+      "sha256": "b948921852dd7d9b5b57affd0a44a35197ac7962ad28a340f78531d478e57fe4"
+    },
+    {
+      "filename": "ge_essentials_practical-bc904cad9b01563d.wav",
+      "seconds": 1.96,
+      "peak": 29361,
+      "rms": 2783.8,
+      "sha256": "65fe7d96fb2b084ea91d3d0bdd8c91eb594a298fdecfb25e6ced67e9b9d271ff"
+    },
+    {
+      "filename": "ge_essentials_practical-883332c6590782c2.wav",
+      "seconds": 3.6,
+      "peak": 32768,
+      "rms": 5071.3,
+      "sha256": "aab9c775cf19bc1b2646ca69ad62bed68990cbe6f07a5083afcc3d6166e95719"
+    },
+    {
+      "filename": "ge_essentials_practical-a60c006a1c2d8ed6.wav",
+      "seconds": 1.96,
+      "peak": 19137,
+      "rms": 3045.5,
+      "sha256": "5d4b279a2be442959a89723ecd1a85b12478bd823faa38d3de19d6cba1c858d2"
+    },
+    {
+      "filename": "ge_essentials_practical-f8a6824c63b48010.wav",
+      "seconds": 1.52,
+      "peak": 19496,
+      "rms": 1693.1,
+      "sha256": "b5543795e7b799f076e482910750b83f477d8438d7a8179030b60addef2cbed1"
+    },
+    {
+      "filename": "ge_essentials_practical-b333d224bcec63e3.wav",
+      "seconds": 1.8,
+      "peak": 19244,
+      "rms": 1953.1,
+      "sha256": "9f2a0bfcc279a41972187104b0da544727ab17c68ead91d3e1a6c9f5f9d2e0e0"
+    },
+    {
+      "filename": "ge_essentials_practical-6f219ad6a4bf4a2f.wav",
+      "seconds": 2.04,
+      "peak": 14887,
+      "rms": 1774.5,
+      "sha256": "fb79645faa5b57360d3d7be4ba637d34f8a6294078189045dbdf275ce8dd888c"
+    },
+    {
+      "filename": "ge_essentials_practical-991c290a4597582f.wav",
+      "seconds": 2.12,
+      "peak": 24714,
+      "rms": 2793.0,
+      "sha256": "47737e8dc4c9b7fc5a4d3fe01c56adc92432fc9f657f9137cfa6da18cd2b3102"
+    },
+    {
+      "filename": "ge_essentials_practical-33f75ebd401058f7.wav",
+      "seconds": 2.52,
+      "peak": 24078,
+      "rms": 2909.5,
+      "sha256": "5c08e529e274fd73c97d187d2b58a741515f470463cad41c47e4db2bfce78e95"
+    },
+    {
+      "filename": "ge_essentials_practical-8026f7e049136d1b.wav",
+      "seconds": 2.56,
+      "peak": 23081,
+      "rms": 2521.7,
+      "sha256": "436d5fb11b5f4eecd0f8fd9a4a5813322ab4080c50ccbfc72b1b782fb10a913a"
+    },
+    {
+      "filename": "ge_essentials_practical-bd7c1c3f1badec1d.wav",
+      "seconds": 2.16,
+      "peak": 32768,
+      "rms": 2536.3,
+      "sha256": "77a715efd70f2d1ae6c0f05def1be09c496bba5688e6f4118cfbb965e89e709a"
+    },
+    {
+      "filename": "ge_essentials_practical-49e3f35196a22c1a.wav",
+      "seconds": 3.04,
+      "peak": 17025,
+      "rms": 2138.7,
+      "sha256": "822ffc082f73cf0eac81d6f8488f8c3e68bcbe31fc408b34d207458969a6d137"
+    },
+    {
+      "filename": "ge_essentials_practical-e7beec597f0ff6a0.wav",
+      "seconds": 2.56,
+      "peak": 32768,
+      "rms": 4092.4,
+      "sha256": "90948c94320aa7e995f58939565b1e1fa30df7b3edcc78ecb2297db52ca57e7c"
+    },
+    {
+      "filename": "ge_essentials_practical-9107a7e181d39ede.wav",
+      "seconds": 2.8,
+      "peak": 32767,
+      "rms": 3226.0,
+      "sha256": "550836f1e32cf4011f2d31c6890d73e5c7d5c9aa5ed2444fb16ca3e13e392914"
+    },
+    {
+      "filename": "ge_essentials_practical-e2fa314b82cc5b64.wav",
+      "seconds": 2.84,
+      "peak": 32767,
+      "rms": 3515.4,
+      "sha256": "7d15d01c58c3db70d508a5376078381231020d122b881c2cd0d814c1a63c4212"
+    },
+    {
+      "filename": "ge_essentials_practical-e1529ba219e463b0.wav",
+      "seconds": 2.0,
+      "peak": 32768,
+      "rms": 5002.8,
+      "sha256": "8f0a95970837a8b5d2652934c2cb93f21ca0454dd7911f495f54b90465a1bbb4"
+    },
+    {
+      "filename": "ge_essentials_practical-bc3a3697bb1897ae.wav",
+      "seconds": 2.12,
+      "peak": 22838,
+      "rms": 2763.1,
+      "sha256": "57814408c871d6b0382ccbb939f0c597ead17ec5467b00ea2d246405c194a67d"
+    },
+    {
+      "filename": "ge_essentials_practical-9cd334687130f3ce.wav",
+      "seconds": 2.48,
+      "peak": 25859,
+      "rms": 3262.0,
+      "sha256": "c92977115469e97a887b210e90c75f8599cd32e3182f90695a8e3685e77f7acf"
+    },
+    {
+      "filename": "ge_essentials_practical-f68ca0bc4aef4f7d.wav",
+      "seconds": 2.6,
+      "peak": 30820,
+      "rms": 4222.9,
+      "sha256": "16c21f24c8dfbf2f39c6e0549fee00edffbcfafae2313d86b1ee9d21529ef098"
+    },
+    {
+      "filename": "ge_essentials_practical-50f4302230050fc8.wav",
+      "seconds": 1.4,
+      "peak": 28519,
+      "rms": 4526.1,
+      "sha256": "5fd17aedd9ca796ec92a5f09537544d67ac2ef46487a38debf3591130766cdb9"
+    },
+    {
+      "filename": "ge_essentials_practical-6fa56c9175d027bf.wav",
+      "seconds": 2.6,
+      "peak": 20004,
+      "rms": 2391.1,
+      "sha256": "df56c8eeb677e12120a6a03b07c5a5843cea5ea32a6188d2537b1841546cf5ab"
+    },
+    {
+      "filename": "ge_essentials_practical-9f9bfbb29124c66c.wav",
+      "seconds": 2.16,
+      "peak": 27105,
+      "rms": 3129.6,
+      "sha256": "6d497c58a5eff8731fd40ee15562594be8b2d193d99bfe27841fec1008a35799"
+    },
+    {
+      "filename": "ge_essentials_practical-681d98e7e476a347.wav",
+      "seconds": 1.56,
+      "peak": 21938,
+      "rms": 3965.3,
+      "sha256": "9d54b0be9ba222be4987c0720fcf361254fb06aa80610a812b7124891a22b0ae"
+    },
+    {
+      "filename": "ge_essentials_practical-783c669723f6e62c.wav",
+      "seconds": 1.96,
+      "peak": 25378,
+      "rms": 3102.3,
+      "sha256": "089b2c013faf5d04dbe64409bbcf221c0ba8fd0683006ddd286ff987101b152d"
+    },
+    {
+      "filename": "ge_essentials_practical-c451508c9c1b40d2.wav",
+      "seconds": 3.0,
+      "peak": 31201,
+      "rms": 4159.3,
+      "sha256": "10c11c82e13586deaa8f9a3fb1af7073d1f985acca5b2bd1cf7efa93503241ea"
+    },
+    {
+      "filename": "ge_essentials_practical-b2f8dcaf6894f2a6.wav",
+      "seconds": 3.44,
+      "peak": 24401,
+      "rms": 1606.4,
+      "sha256": "e3cc8ca4e52ae7b4308b2512eb022793d0a3d770484d517c9e555a819bf6618d"
+    },
+    {
+      "filename": "ge_essentials_practical-4963f70b921d986f.wav",
+      "seconds": 2.24,
+      "peak": 32767,
+      "rms": 3696.4,
+      "sha256": "ec41c07b7ac8608a4ce590ede624c531f919730634988a47ec382789351f1355"
+    },
+    {
+      "filename": "ge_essentials_practical-d07663e39c06b44e.wav",
+      "seconds": 2.2,
+      "peak": 26695,
+      "rms": 4248.5,
+      "sha256": "0cd3f587f95e58cbf6f62506dd1f47d47a0998a6ede6f5a8461672f62a6ccc92"
+    },
+    {
+      "filename": "ge_essentials_practical-23cd65c8c3508d59.wav",
+      "seconds": 2.44,
+      "peak": 14553,
+      "rms": 2868.7,
+      "sha256": "00ef54761b78521c58010f14cacc9195bbc9a3094107a843624abdcb52de82df"
+    },
+    {
+      "filename": "ge_essentials_practical-5ab427dafae1b9b8.wav",
+      "seconds": 1.32,
+      "peak": 28585,
+      "rms": 3005.7,
+      "sha256": "f7d63099f439fd1a844be7695cb6e2864f6da4d72c01af60ed3da9f9c5734dcd"
+    },
+    {
+      "filename": "ge_essentials_practical-13af9ac5ad8b6c27.wav",
+      "seconds": 2.16,
+      "peak": 28118,
+      "rms": 4472.4,
+      "sha256": "74f6a319776a1c4a5fe05c96dc60246679feb1f816f5c7fe4f4529fecceefb35"
+    },
+    {
+      "filename": "ge_essentials_practical-42913efccf517c38.wav",
+      "seconds": 1.12,
+      "peak": 7063,
+      "rms": 1197.5,
+      "sha256": "6c6229e55d4173d14b970f1de0ce80f2f08488f5fa204bb168768e4ff5a8e106"
+    },
+    {
+      "filename": "ge_essentials_practical-2d093436753b64eb.wav",
+      "seconds": 1.08,
+      "peak": 32768,
+      "rms": 3708.5,
+      "sha256": "6c193399fb1742811715ac870f9f6debefe48c9f12509a5201af1d7391ab8048"
+    },
+    {
+      "filename": "ge_essentials_practical-97e557b9e3ec9487.wav",
+      "seconds": 1.4,
+      "peak": 23236,
+      "rms": 2950.9,
+      "sha256": "a666eacb6b82c44a16548510bc7f6fc87a8cf031e59cb1bbf5bdfdd0971e9189"
+    },
+    {
+      "filename": "ge_essentials_practical-54fdc00ae9f0ba0f.wav",
+      "seconds": 1.32,
+      "peak": 32768,
+      "rms": 3110.0,
+      "sha256": "b403d8ac5caf8dce0966682d4b8dcb38b6116a0acd05167c5449ae4e09cf24d5"
+    },
+    {
+      "filename": "ge_essentials_practical-8fd2728e13d44087.wav",
+      "seconds": 1.32,
+      "peak": 22703,
+      "rms": 1651.9,
+      "sha256": "f5f60a5bc5e69912a5f540c3f159aada9bd1db2e4d73e2998aa53df3de14df40"
+    },
+    {
+      "filename": "ge_essentials_practical-15fd610a42e7914e.wav",
+      "seconds": 1.44,
+      "peak": 29972,
+      "rms": 2864.1,
+      "sha256": "38b7d56eecc768a2e8f0a4dbb72be2d6b3274047428ec4fae9370fcd44096705"
+    },
+    {
+      "filename": "ge_essentials_practical-2bd529cb011f4107.wav",
+      "seconds": 2.32,
+      "peak": 27793,
+      "rms": 2757.3,
+      "sha256": "ca1af9d8fef6712749d5a5e9b2607234051d843e2819ae10b954b7e69bec3cab"
+    },
+    {
+      "filename": "ge_essentials_practical-e91c5f975c1b0dc7.wav",
+      "seconds": 1.92,
+      "peak": 24573,
+      "rms": 2837.9,
+      "sha256": "13a76904cf119aab60490bebf978e7d4c695c490c937a900a11b4741aa86dd9c"
+    },
+    {
+      "filename": "ge_essentials_practical-8ee83f0fd21d6ffd.wav",
+      "seconds": 2.0,
+      "peak": 30462,
+      "rms": 4096.5,
+      "sha256": "1c9b7cf65b33787c8526822785e137a7a50d6f9a6d57027173ec8bbfb7f5cc35"
+    },
+    {
+      "filename": "ge_essentials_practical-1b8bb6e7e748fb1e.wav",
+      "seconds": 1.12,
+      "peak": 30304,
+      "rms": 3361.9,
+      "sha256": "6f6c18505ace124dd5caaf31403f298099dc7f17090fc6c303053627d67187c3"
+    },
+    {
+      "filename": "ge_essentials_practical-4a73d83995f0f862.wav",
+      "seconds": 1.76,
+      "peak": 23949,
+      "rms": 2190.5,
+      "sha256": "987f259ed83992cae4dc61236f2192781805563e96ea996a11e5bacd20efd7d8"
+    },
+    {
+      "filename": "ge_essentials_practical-6c4b05b1765e8edb.wav",
+      "seconds": 1.28,
+      "peak": 32767,
+      "rms": 4287.4,
+      "sha256": "4c8ad0506bafcad2ba201395acacf31e3a280b6759fc47dca7254d08545b1f15"
+    },
+    {
+      "filename": "ge_essentials_practical-0ab8f3ac0252f69b.wav",
+      "seconds": 1.2,
+      "peak": 10172,
+      "rms": 1389.7,
+      "sha256": "11c5bd5b8b6691df8913a155444f98a36c047a1110932808ce4699154f651e90"
+    },
+    {
+      "filename": "ge_essentials_practical-8deaeee9e1470d3c.wav",
+      "seconds": 1.24,
+      "peak": 23215,
+      "rms": 1629.6,
+      "sha256": "fa4e2b762f265377076c5654d62d70317791f51a2fbf6def785e5cd4e7c9fae6"
+    },
+    {
+      "filename": "ge_essentials_practical-51e535e0cccbe637.wav",
+      "seconds": 1.4,
+      "peak": 15491,
+      "rms": 2577.9,
+      "sha256": "ef89349d5134a1615f61a26fb1a64322aeeffdaa091574f030b0498ee56ee578"
+    },
+    {
+      "filename": "ge_essentials_practical-7ee02bfb36100777.wav",
+      "seconds": 1.88,
+      "peak": 17422,
+      "rms": 1500.4,
+      "sha256": "d84090cd5fc5878010f8d958cca20716513129508a747db49f21e1179c5673d0"
+    },
+    {
+      "filename": "ge_essentials_practical-afa559d64a98d150.wav",
+      "seconds": 1.16,
+      "peak": 31086,
+      "rms": 3572.2,
+      "sha256": "5cda57bc38ac4145f0a6d4ada77a4a8661a9cd06a0c57d334302577380954503"
+    },
+    {
+      "filename": "ge_essentials_practical-e853e2deee0ac77d.wav",
+      "seconds": 1.28,
+      "peak": 26574,
+      "rms": 3868.9,
+      "sha256": "0fd15c87d99def66b4981e6c82ec2ab7131a16d191cc2a3dc9a38d0d98dc3efa"
+    },
+    {
+      "filename": "ge_essentials_practical-6cf7bc319ef8f48f.wav",
+      "seconds": 1.36,
+      "peak": 13085,
+      "rms": 1982.4,
+      "sha256": "0599214abc4ad33fff82eda017f93f3947d3bbdf35041fd4fd1a2a64c89faddc"
+    },
+    {
+      "filename": "ge_essentials_practical-12a5c4dd9e758f5b.wav",
+      "seconds": 1.48,
+      "peak": 30577,
+      "rms": 3893.9,
+      "sha256": "beda86bf9204b87df01822115653d24ad72e7d34e1fbe69b1c41fe8027661c91"
+    },
+    {
+      "filename": "ge_essentials_practical-ce3161f5c146f802.wav",
+      "seconds": 1.36,
+      "peak": 19858,
+      "rms": 2067.7,
+      "sha256": "5220c7b8b9382155b254acdd33a816cf6a3e4faf244e252cf0aa5d2af3fe8c40"
+    },
+    {
+      "filename": "ge_essentials_practical-7589183113c6b726.wav",
+      "seconds": 1.56,
+      "peak": 20476,
+      "rms": 2362.0,
+      "sha256": "cc9f13feec0926a67f25b7022d24f5d86f5e8079a0ec5d38131eee123132f57f"
+    },
+    {
+      "filename": "ge_essentials_practical-e019e381ef9b7910.wav",
+      "seconds": 1.72,
+      "peak": 18413,
+      "rms": 2492.2,
+      "sha256": "63a3216066071d162d5bf4e94477d83cfc0c4b450c13acf117bca93fef1cddfc"
+    },
+    {
+      "filename": "ge_essentials_practical-9549e714236516c6.wav",
+      "seconds": 1.6,
+      "peak": 29490,
+      "rms": 3127.5,
+      "sha256": "268b80134096d8e84083d8ba02dd0414a0f64ea660c468ba3bce3dc7323d2418"
+    },
+    {
+      "filename": "ge_essentials_practical-a00d217a2a056277.wav",
+      "seconds": 1.24,
+      "peak": 24740,
+      "rms": 2013.0,
+      "sha256": "1a72668a284216684433c69cfef25148d43f0c91b15d777e41a648af84a5c5a0"
+    },
+    {
+      "filename": "ge_essentials_practical-6a8661ecdf81333f.wav",
+      "seconds": 1.4,
+      "peak": 20600,
+      "rms": 2804.8,
+      "sha256": "28a8c609fff77727551439759e0e8e5b63086bb3ed990948937dc40101e162d8"
+    },
+    {
+      "filename": "ge_essentials_practical-3bd5245c0980666a.wav",
+      "seconds": 1.12,
+      "peak": 21682,
+      "rms": 2940.5,
+      "sha256": "c3578ad332b95b991931cc41c3dec5b9343f6caecc609041fe8d837d5452b5d5"
+    },
+    {
+      "filename": "ge_essentials_practical-0d1c4e91e0a3178c.wav",
+      "seconds": 1.48,
+      "peak": 28938,
+      "rms": 2198.0,
+      "sha256": "ddd4a8c5e5c57b3a0275552aea0d0fe41f98000f1869307e857d10d6dd9f3f9e"
+    },
+    {
+      "filename": "ge_essentials_practical-5d606c9a36322abe.wav",
+      "seconds": 1.36,
+      "peak": 21402,
+      "rms": 1536.8,
+      "sha256": "77f395799cda473c511415112e2a89e5e68dac01d276869effd1eee0517ee4a5"
+    },
+    {
+      "filename": "ge_essentials_practical-41b95d144811a7d3.wav",
+      "seconds": 1.48,
+      "peak": 26567,
+      "rms": 2896.1,
+      "sha256": "0ce65d1f0500422eb068712622ae5c1af1f00556220161e5dc3a432f9d23ad1d"
+    },
+    {
+      "filename": "ge_essentials_practical-00e272f93587d6e3.wav",
+      "seconds": 1.6,
+      "peak": 19201,
+      "rms": 2232.8,
+      "sha256": "d790c8617d1605715e1626688215d136616294378cc06f58845ee36a858bdb4f"
+    },
+    {
+      "filename": "ge_essentials_practical-c5a532a2188e266d.wav",
+      "seconds": 1.32,
+      "peak": 32767,
+      "rms": 3908.9,
+      "sha256": "55bf5a5413175c333ba83e09544e5e01fcb6c1b56a93c9cf6b0da2a3e44fcc74"
+    },
+    {
+      "filename": "ge_essentials_practical-cb7009e16963dc3f.wav",
+      "seconds": 1.12,
+      "peak": 32556,
+      "rms": 2821.2,
+      "sha256": "e3aec63f8bd0339038ba43aed6e04fb798f60b656e541d951b9c40a0dac0a13c"
+    },
+    {
+      "filename": "ge_essentials_practical-538c79c83262fc1c.wav",
+      "seconds": 1.64,
+      "peak": 32767,
+      "rms": 2554.8,
+      "sha256": "34b023a4089fc1cb32037b083bbc9190974ce8d863b86c37ce6b759f7affe828"
+    },
+    {
+      "filename": "ge_essentials_practical-5f3a0ff154f14313.wav",
+      "seconds": 1.24,
+      "peak": 32531,
+      "rms": 3269.4,
+      "sha256": "1ae8187b17dd0f62bf2d785b07291ed70dd10a8bcc305c354794aa4b95c4bd9c"
+    },
+    {
+      "filename": "ge_essentials_practical-3c430695ed814b11.wav",
+      "seconds": 1.2,
+      "peak": 29786,
+      "rms": 3728.9,
+      "sha256": "7f3a977bbbecc9e88a4c38492400ce8ccbcd5e4c59bd17ffd0cf086abcfcdc9c"
+    },
+    {
+      "filename": "ge_essentials_practical-682e4d505134d9e2.wav",
+      "seconds": 1.6,
+      "peak": 25191,
+      "rms": 2428.9,
+      "sha256": "624fdbd3c5d88e6f8d4dfe7a78a3283bd952051356c0a9216dbde760be2ee186"
+    },
+    {
+      "filename": "ge_essentials_practical-7f4077ca18be4c00.wav",
+      "seconds": 1.6,
+      "peak": 32767,
+      "rms": 4047.6,
+      "sha256": "c4000e041efdad6ded74e46871e23bf77301130b31154974c02f70db331c7a0b"
+    },
+    {
+      "filename": "ge_essentials_practical-46885e557e88c1c6.wav",
+      "seconds": 1.52,
+      "peak": 23155,
+      "rms": 3016.9,
+      "sha256": "77224fc907246e010adc179c8de783a28941f0475f7590ba8a965db6d9a5342e"
+    },
+    {
+      "filename": "ge_essentials_practical-817f356b45172b91.wav",
+      "seconds": 1.88,
+      "peak": 12659,
+      "rms": 2594.1,
+      "sha256": "fa48fd77f6eefb1af8a2a7b10b78f4e5c0d8e5e8fa272359dda307d9ded8241c"
+    },
+    {
+      "filename": "ge_essentials_practical-38006577b3fa72ac.wav",
+      "seconds": 1.36,
+      "peak": 22261,
+      "rms": 2928.4,
+      "sha256": "c4f86fe3fe48d3ec0aacfec7ce2525953cbbdd8f76988e085c7da35956909974"
+    },
+    {
+      "filename": "ge_essentials_practical-9f278cabc57a889f.wav",
+      "seconds": 1.44,
+      "peak": 25411,
+      "rms": 2171.0,
+      "sha256": "662c30cf9ba0fbd9f669c6f57517e4f74ae1eb0c9b4d96945d27c2bb91354f2f"
+    },
+    {
+      "filename": "ge_essentials_practical-f6392c167f1814b8.wav",
+      "seconds": 1.36,
+      "peak": 25985,
+      "rms": 3175.8,
+      "sha256": "70c45d347c53bf25a9ebb8f7cd70730e41d09478f8a58b6ed8ef69bd88a15318"
+    },
+    {
+      "filename": "ge_essentials_practical-b4e8cca0bcf105cd.wav",
+      "seconds": 1.2,
+      "peak": 25645,
+      "rms": 2023.6,
+      "sha256": "7fb69d43b25d11254cd4103c3b22354d0b0d8d772f1fd30607238f7431838f66"
+    },
+    {
+      "filename": "ge_essentials_practical-662e3493d838db7d.wav",
+      "seconds": 1.56,
+      "peak": 19382,
+      "rms": 2585.3,
+      "sha256": "d7fd52813f6bdfa00f64d07ad7b55232ee5f1361230963c3ab4174f299f0cff0"
+    },
+    {
+      "filename": "ge_essentials_practical-3cf0482957486fd1.wav",
+      "seconds": 1.56,
+      "peak": 27058,
+      "rms": 2231.3,
+      "sha256": "fbd35e2e43cbeef5f6a74ad84af32a2fc07abc05058f06d02809f25e061b9688"
+    },
+    {
+      "filename": "ge_essentials_practical-9fabe55ea71cbd96.wav",
+      "seconds": 1.56,
+      "peak": 23354,
+      "rms": 2101.6,
+      "sha256": "8db23730b728109b5418febdb928da2d7c6d96cce26b60c76b3ca293c8ba9e31"
+    },
+    {
+      "filename": "ge_essentials_practical-f9fb1f4833899d7e.wav",
+      "seconds": 1.32,
+      "peak": 18399,
+      "rms": 2455.7,
+      "sha256": "ed81a6864e3bd7d890b373179609f6eb09b3065262862e0459ddf8aa5576e5ad"
+    },
+    {
+      "filename": "ge_essentials_practical-da70983e1bd8305a.wav",
+      "seconds": 1.72,
+      "peak": 20481,
+      "rms": 2211.4,
+      "sha256": "4f3bde96fd3327cf0a4ab087b9b29d4f572dceb21051e6cc182ef1eef8ca5dd7"
+    },
+    {
+      "filename": "ge_essentials_practical-03335e37e504c087.wav",
+      "seconds": 1.44,
+      "peak": 14319,
+      "rms": 1862.2,
+      "sha256": "1de9be389c79bc4fbeab792c4f6e0b850b0b9f1a552d1e7b6e2cb054918b1933"
+    },
+    {
+      "filename": "ge_essentials_practical-090a5534816fb987.wav",
+      "seconds": 1.32,
+      "peak": 26256,
+      "rms": 3047.4,
+      "sha256": "9cf2f7d97ecfc8be660ccb9436225c73b0bd738da71eb08e9cc063788e7ba8ed"
+    },
+    {
+      "filename": "ge_essentials_practical-277614a78ff01fec.wav",
+      "seconds": 2.68,
+      "peak": 32767,
+      "rms": 3720.4,
+      "sha256": "42790f69cec9dee08ca91371e1a0185e2b143d6b6afdd7fc109da06dee1e59ba"
+    },
+    {
+      "filename": "ge_essentials_practical-b9d631c0c749b9be.wav",
+      "seconds": 1.8,
+      "peak": 28030,
+      "rms": 3397.3,
+      "sha256": "7ca36cdd793a1d72447bf1e3443669bb03f9575efb5862f5a02749b691dbe9e4"
+    },
+    {
+      "filename": "ge_essentials_practical-f1b01a8cbd3d471c.wav",
+      "seconds": 2.6,
+      "peak": 32767,
+      "rms": 4670.5,
+      "sha256": "2f970762a1286e79a337a1b574333ad932eddec79c95c3d0b6c4616b5b478f9f"
+    },
+    {
+      "filename": "ge_essentials_practical-ef70ec21f01c4ee6.wav",
+      "seconds": 3.0,
+      "peak": 23193,
+      "rms": 3308.2,
+      "sha256": "e28ca5c4be4340d76a98a6c4e83a2931486432ef9bfbb2305da0993eab5b9c21"
+    },
+    {
+      "filename": "ge_essentials_practical-1c75712046d94b7b.wav",
+      "seconds": 1.84,
+      "peak": 24843,
+      "rms": 3801.6,
+      "sha256": "7a97d68d69024afa45a60f4cf4a0d8e99098928d9fc9697226fe9ffa14f7b0c6"
+    },
+    {
+      "filename": "ge_essentials_practical-3f9a9aadb1b3b2fe.wav",
+      "seconds": 2.32,
+      "peak": 28896,
+      "rms": 2372.0,
+      "sha256": "557f9f4db3c90e727149b758d63c086f10a5c4c6516f74266278fe702081fcb3"
+    },
+    {
+      "filename": "ge_essentials_practical-d475dff58a2367f9.wav",
+      "seconds": 1.6,
+      "peak": 26516,
+      "rms": 2313.8,
+      "sha256": "58e03deb69fdf6a1595219c8f97443d2323b9e1cf65db47a076b7d4b3109e7c7"
+    },
+    {
+      "filename": "ge_essentials_practical-24a2468745667bc7.wav",
+      "seconds": 3.08,
+      "peak": 20747,
+      "rms": 2566.7,
+      "sha256": "32a1a46d3513dbd85afd71a9d26cf64842f343b748c563a0a1fb757ae539ec6a"
+    },
+    {
+      "filename": "ge_essentials_practical-80a352ec1a97d732.wav",
+      "seconds": 1.64,
+      "peak": 16274,
+      "rms": 2910.6,
+      "sha256": "abd7124687cc86e80cac5737137d1ab99dd66da3d0b477829a0549506413e72a"
+    },
+    {
+      "filename": "ge_essentials_practical-d01a5fbc408b8672.wav",
+      "seconds": 2.32,
+      "peak": 27290,
+      "rms": 4205.5,
+      "sha256": "c701ec80092acee9029e054271d1a5a1fcb7e954c74e5b44c4b105458739e163"
+    },
+    {
+      "filename": "ge_essentials_practical-655e6a0ecdd29b54.wav",
+      "seconds": 2.6,
+      "peak": 21532,
+      "rms": 3355.4,
+      "sha256": "e3f38b4261795c463773085b2ffd698993f34d6613dea445bd5a01a8af8374f9"
+    },
+    {
+      "filename": "ge_essentials_practical-14542deb1c980461.wav",
+      "seconds": 2.72,
+      "peak": 32767,
+      "rms": 3689.1,
+      "sha256": "fbe3270e2f75e1e85811e526d14b25844381669f72a5cd377a791ac72824acda"
+    },
+    {
+      "filename": "ge_essentials_practical-a300e8b916b10eae.wav",
+      "seconds": 1.8,
+      "peak": 20277,
+      "rms": 3931.5,
+      "sha256": "f2e43ab57984e85074fe9214129d7f374464add888e6192b2900ba528a6d843d"
+    },
+    {
+      "filename": "ge_essentials_practical-a27454f0029f2c6c.wav",
+      "seconds": 1.6,
+      "peak": 30272,
+      "rms": 3789.1,
+      "sha256": "68fac0c4069cee953d79a0c0add7ae2f26ed050f583d42d388357b95f7dce0f0"
+    },
+    {
+      "filename": "ge_essentials_practical-15b9217cab0f392d.wav",
+      "seconds": 2.72,
+      "peak": 29879,
+      "rms": 4492.3,
+      "sha256": "37fd1d0a23e101539a3edf3754558dd6cb17638413e3c9524e526db5b15ecef9"
+    },
+    {
+      "filename": "ge_essentials_practical-fe7f726e43681375.wav",
+      "seconds": 2.32,
+      "peak": 32767,
+      "rms": 3727.8,
+      "sha256": "03dc2164f794b122bc1bca7272857e970bb67efc5aa9b75283ebef4c0c35e69a"
+    },
+    {
+      "filename": "ge_essentials_practical-16cfff6df3ceb643.wav",
+      "seconds": 1.8,
+      "peak": 19157,
+      "rms": 2682.7,
+      "sha256": "beb3ae682e5bfa6bc95596b50a640bef0060fcef0f57b1506e5b721707e14176"
+    },
+    {
+      "filename": "ge_essentials_practical-9b8807422b595c63.wav",
+      "seconds": 1.56,
+      "peak": 27567,
+      "rms": 4259.1,
+      "sha256": "3bd0605c022d51562df79c18e9a20bd37c5ac8e9a6e3e288f4feb561d30076b9"
+    },
+    {
+      "filename": "ge_essentials_practical-fe8f113f31cac0f6.wav",
+      "seconds": 1.48,
+      "peak": 22224,
+      "rms": 2975.6,
+      "sha256": "a299e45c49ab6cb4a75775b8ff55eace6a9b74875c4abb664844a0a029cd1a74"
+    },
+    {
+      "filename": "ge_essentials_practical-789400d6fd061ace.wav",
+      "seconds": 1.6,
+      "peak": 25158,
+      "rms": 2398.6,
+      "sha256": "741b30a287b834ed2bdc1634698874a6082c0395039fbf71476c89825156143f"
+    },
+    {
+      "filename": "ge_essentials_practical-587dbef62833ebb8.wav",
+      "seconds": 1.28,
+      "peak": 17778,
+      "rms": 1901.3,
+      "sha256": "cf4d8aa9228f89cad34ac103c147c751fabb4f6120ea248bb40c713d59815d78"
+    },
+    {
+      "filename": "ge_essentials_practical-f19b7702c7272a2c.wav",
+      "seconds": 2.08,
+      "peak": 23611,
+      "rms": 3587.4,
+      "sha256": "68dfd1ecc0cabed950713779858dbe51c469f20b1468436e6db008c90e53e7a3"
+    },
+    {
+      "filename": "ge_essentials_practical-37a60262a8a5b7ed.wav",
+      "seconds": 1.8,
+      "peak": 21226,
+      "rms": 3301.5,
+      "sha256": "281bbf1a27817ef9f62d679e25270c73d8fc856fd85120d35384127290601ce3"
+    },
+    {
+      "filename": "ge_essentials_practical-259bdd3fd14fce71.wav",
+      "seconds": 1.4,
+      "peak": 20663,
+      "rms": 1970.1,
+      "sha256": "fdda277dafea0b14502f594f7fc8f54356d37c35ca62ed3dbe6169fc02929d29"
+    },
+    {
+      "filename": "ge_essentials_practical-d4ca437a4316abfa.wav",
+      "seconds": 2.0,
+      "peak": 19295,
+      "rms": 1543.6,
+      "sha256": "d3c65c69e18cfe3c095c12c54f5b572a0a71ce5b5362fef38ac2b256fa340691"
+    },
+    {
+      "filename": "ge_essentials_practical-31eb0edb1cc17535.wav",
+      "seconds": 1.44,
+      "peak": 32768,
+      "rms": 5237.0,
+      "sha256": "33f31574e1e44d82811a2de1ef073dbf770f34b40f1de38e1772cb516325e278"
+    },
+    {
+      "filename": "ge_essentials_practical-6ab008e040e7d0f9.wav",
+      "seconds": 2.04,
+      "peak": 20682,
+      "rms": 2677.5,
+      "sha256": "7c2e3d51d33c70dd6453b82d6c7444e90ee387206fc4d5604b250ceea17840fa"
+    },
+    {
+      "filename": "ge_essentials_practical-8d606d0213509483.wav",
+      "seconds": 1.48,
+      "peak": 16367,
+      "rms": 2596.3,
+      "sha256": "78853ef497ea1008d66d32498f45a6f6f669f10be253213b4e0b06e3a3553576"
+    },
+    {
+      "filename": "ge_essentials_practical-54b9780fcab17bbf.wav",
+      "seconds": 1.28,
+      "peak": 15358,
+      "rms": 2124.7,
+      "sha256": "bef6721eb354f52128d1556a0d6365a1e96494e858ade02128f16edb0ce465b3"
+    },
+    {
+      "filename": "ge_essentials_practical-058ccf61949d7d09.wav",
+      "seconds": 1.36,
+      "peak": 32768,
+      "rms": 3528.7,
+      "sha256": "0b8216f79b17089c7ebf57a5a6da33a77a9c66f063fe135613d109e86011c73c"
+    },
+    {
+      "filename": "ge_essentials_practical-371fa6907274900d.wav",
+      "seconds": 1.28,
+      "peak": 22018,
+      "rms": 2423.1,
+      "sha256": "3e8ea65acc144805e2e352086d3ff613071f8fcda3747e24a3508d2354fcaded"
+    },
+    {
+      "filename": "ge_essentials_practical-c7f3993e3b1dd6da.wav",
+      "seconds": 1.6,
+      "peak": 19237,
+      "rms": 2407.8,
+      "sha256": "0e05ce06face707dcb40d01740071a1200700e6f1e491bcc5d2debb90d6f2e87"
+    },
+    {
+      "filename": "ge_essentials_practical-d2ccfb628cdd1ec1.wav",
+      "seconds": 1.16,
+      "peak": 25354,
+      "rms": 4462.8,
+      "sha256": "fd2c8205781f79ad48155497cafd79a5c0fe8de83d056e9be05b130b7d2b07da"
+    },
+    {
+      "filename": "ge_essentials_practical-5686249cf4b630d0.wav",
+      "seconds": 1.2,
+      "peak": 32767,
+      "rms": 2635.8,
+      "sha256": "ff91397f8564de2539e330af2a49f0f42795dfd65636ef039b232169f7e37d29"
+    },
+    {
+      "filename": "ge_essentials_practical-897e4c491a91e19d.wav",
+      "seconds": 1.12,
+      "peak": 19712,
+      "rms": 2934.7,
+      "sha256": "cc640fce0c821d93a70b14ba1b97cfa3836ee0e5f1d680143410e0db4da5a472"
+    },
+    {
+      "filename": "ge_essentials_practical-3c4ed808a4abd3bc.wav",
+      "seconds": 1.36,
+      "peak": 24091,
+      "rms": 2683.4,
+      "sha256": "012f03d7e36273203ee5709cad57be5f578f868cdc2b516d4c56c871ae5bf85c"
+    },
+    {
+      "filename": "ge_essentials_practical-d899cea3033ad05b.wav",
+      "seconds": 1.2,
+      "peak": 16119,
+      "rms": 1766.5,
+      "sha256": "94cb442c9cba7fafdd7ee852bd251bacf1414ba765ce40923fa4c70750bb5f5d"
+    },
+    {
+      "filename": "ge_essentials_practical-abeca8513b4149bd.wav",
+      "seconds": 1.24,
+      "peak": 27865,
+      "rms": 2720.6,
+      "sha256": "8a4cae73f7aff02857aae0c29031e4a282d37170410bda38a74bd4780d14b130"
+    },
+    {
+      "filename": "ge_essentials_practical-c0a692bf70f45b0b.wav",
+      "seconds": 1.16,
+      "peak": 25072,
+      "rms": 2735.1,
+      "sha256": "5ca404ed1ee0a3b8a39c27f3db87adf1a413fcfcd096b357120148b0ab09c1ef"
+    },
+    {
+      "filename": "ge_essentials_practical-8213071673d2ba01.wav",
+      "seconds": 1.36,
+      "peak": 21467,
+      "rms": 2121.7,
+      "sha256": "de930a0fc92cd3963ffcd75ddb7f59041d76023a18326649938bfc4a84ad21a6"
+    },
+    {
+      "filename": "ge_essentials_practical-7fffc3eb3bda4745.wav",
+      "seconds": 1.44,
+      "peak": 29260,
+      "rms": 2830.9,
+      "sha256": "fe347d1a965111c44d692dbf9ba7b08abf0e99dfe1cb8d74dc5e961cda7089df"
+    },
+    {
+      "filename": "ge_essentials_practical-4a43f005362faf6e.wav",
+      "seconds": 1.48,
+      "peak": 32768,
+      "rms": 2942.0,
+      "sha256": "18fce3dd48e458fddecff099b9b0e2c9d6863259c4fc85fe2e42b57a5ba04d82"
+    },
+    {
+      "filename": "ge_essentials_practical-a53963eb98aa63b1.wav",
+      "seconds": 1.56,
+      "peak": 24491,
+      "rms": 2069.5,
+      "sha256": "3edc7bb9ba965fb3428c8a9f1bb92d7a816069dec88524f1b099d480da45bcfc"
+    },
+    {
+      "filename": "ge_essentials_practical-88d8d95e05c44a42.wav",
+      "seconds": 1.6,
+      "peak": 25764,
+      "rms": 2561.4,
+      "sha256": "4f869dec675829b4cd8c0cdb5f06b9fe73d403f8ea547a5286b2fa696b374037"
+    },
+    {
+      "filename": "ge_essentials_practical-269df753e526e21d.wav",
+      "seconds": 1.4,
+      "peak": 31703,
+      "rms": 4444.8,
+      "sha256": "a6cce66e7ae69c3496572ad2f7a67a5afd20536647364363bdf2c8991632b938"
+    },
+    {
+      "filename": "ge_essentials_practical-4eae99e9cfad8faa.wav",
+      "seconds": 1.4,
+      "peak": 32768,
+      "rms": 3951.5,
+      "sha256": "c33c39ae0f7153abbe476c0a71b1ac65b45c425c1d9f58bf4caf25da11720197"
+    },
+    {
+      "filename": "ge_essentials_practical-a7c373c3d547f562.wav",
+      "seconds": 1.36,
+      "peak": 24897,
+      "rms": 1988.7,
+      "sha256": "cd093c489a97923cf100c3dacb026b9600c7f37653cbad8b72cf6932a57378d8"
+    },
+    {
+      "filename": "ge_essentials_practical-ddd92cf94be6f43a.wav",
+      "seconds": 1.36,
+      "peak": 27217,
+      "rms": 3052.7,
+      "sha256": "d5e23406dd8076fcc4ffc72c4b93c5ebcd4c69c042e9b3f7e59e91c10495ec31"
+    },
+    {
+      "filename": "ge_essentials_practical-69f15ef7e71f683f.wav",
+      "seconds": 1.48,
+      "peak": 21062,
+      "rms": 2427.7,
+      "sha256": "cce8b21e22ebfb7211f29e10f675943a3b1ee0db6896e0f386054c4bc7b216e3"
+    },
+    {
+      "filename": "ge_essentials_practical-a82ab345ec7f1192.wav",
+      "seconds": 1.6,
+      "peak": 20177,
+      "rms": 2008.4,
+      "sha256": "aa1caf710f9b5d1375203a96ae65512eaf3dd387bd1990a28828d7ee816bbf8a"
+    },
+    {
+      "filename": "ge_essentials_practical-585a8c1057129450.wav",
+      "seconds": 1.32,
+      "peak": 28209,
+      "rms": 2157.8,
+      "sha256": "9ff9520598f2a23b166ba14dde760063958f1bc85370d147a9bb7d3acedbb8e4"
+    },
+    {
+      "filename": "ge_essentials_practical-e78db541ed28fe45.wav",
+      "seconds": 1.68,
+      "peak": 25731,
+      "rms": 3579.1,
+      "sha256": "bc3e5aaf83ab3b23545adae464766b9820342e74fe09c5f565d59779b3e98c7f"
+    },
+    {
+      "filename": "ge_essentials_practical-98f7a8a5b4315a3f.wav",
+      "seconds": 1.52,
+      "peak": 26426,
+      "rms": 3222.3,
+      "sha256": "6ef0bdf9a4935e9d8ab99843df6bdb213d2bd543829041088082473b96db2444"
+    },
+    {
+      "filename": "ge_essentials_practical-56255e5090104592.wav",
+      "seconds": 1.92,
+      "peak": 21146,
+      "rms": 2147.0,
+      "sha256": "14fbc7cea7ac04bf261a7dcc5c34c558064eeb0b6ff27f75228b80dceb961037"
+    },
+    {
+      "filename": "ge_essentials_practical-99006ec226f0d611.wav",
+      "seconds": 1.68,
+      "peak": 32767,
+      "rms": 4014.9,
+      "sha256": "0e21be5daa25372912df01d6fa9a64d861f6604e43f824e941cc94b850ee9961"
+    },
+    {
+      "filename": "ge_essentials_practical-3101397af508f37a.wav",
+      "seconds": 1.6,
+      "peak": 25419,
+      "rms": 2671.6,
+      "sha256": "7c9b65625abd1fd6d17352ce1cf88f2bbf013ba9176d8a993f1725e5087c6c5e"
+    },
+    {
+      "filename": "ge_essentials_practical-845dc59c75795c08.wav",
+      "seconds": 1.92,
+      "peak": 24964,
+      "rms": 2775.9,
+      "sha256": "e029acb71e814b86ed8cf5b3f00209533a25c4afc6417df4ffc957cce0abb385"
+    },
+    {
+      "filename": "ge_essentials_practical-8745ad47865fd27a.wav",
+      "seconds": 2.8,
+      "peak": 22494,
+      "rms": 2245.6,
+      "sha256": "ba74b5c0996f9c7201bdf236c4882d7a5599bd98cc34858ddb976a5a9428466e"
+    },
+    {
+      "filename": "ge_essentials_practical-b801fea4f8fd564a.wav",
+      "seconds": 1.88,
+      "peak": 32767,
+      "rms": 2913.4,
+      "sha256": "6e72b172770dde2c351e11e4bff3b5add2f0a8f15ccae1b69651c12df44d0989"
+    },
+    {
+      "filename": "ge_essentials_practical-410ae994048be126.wav",
+      "seconds": 1.76,
+      "peak": 25157,
+      "rms": 3219.8,
+      "sha256": "2998b0c36bb262f2156278e226c786a37e3e77d7332e172c55be80bbd29e0b8f"
+    },
+    {
+      "filename": "ge_essentials_practical-9e257812e549e5c6.wav",
+      "seconds": 1.52,
+      "peak": 32768,
+      "rms": 5042.3,
+      "sha256": "fc60b2005c99f81d89a0f9a56a69c1e708e1ef55dcdebfe1458a21b158ffdd8b"
+    },
+    {
+      "filename": "ge_essentials_practical-16f180873f77956b.wav",
+      "seconds": 2.04,
+      "peak": 25895,
+      "rms": 3080.7,
+      "sha256": "6bfa4e3d6098206db1d2a6607b0e67a7f60709f8b371788c2290fd33960d6bc0"
+    },
+    {
+      "filename": "ge_essentials_practical-1982e28cd8b89059.wav",
+      "seconds": 2.04,
+      "peak": 19343,
+      "rms": 2356.8,
+      "sha256": "8374db2867c87aef4d250aea306336482e862a6f836ba33c9b268635f7479728"
+    },
+    {
+      "filename": "ge_essentials_practical-729099908ce4f8c3.wav",
+      "seconds": 1.48,
+      "peak": 21936,
+      "rms": 2139.5,
+      "sha256": "6c29188d40795049f802d1eeaaf5cb52be97aadd6044b4a0a3e9ddf409c52328"
+    },
+    {
+      "filename": "ge_essentials_practical-abbec47a5672bf83.wav",
+      "seconds": 1.88,
+      "peak": 24190,
+      "rms": 3173.3,
+      "sha256": "cca705bad1954db2f0d975a37d2c76b20ce62e69e6be15104c2106356535c5ca"
+    },
+    {
+      "filename": "ge_essentials_practical-47fbfadbb67d09f5.wav",
+      "seconds": 1.76,
+      "peak": 30668,
+      "rms": 3262.6,
+      "sha256": "267a9d75a0e14c57f9a29571f3b192df6c3c6accd47eaac1410d7a0c752ec9f4"
+    },
+    {
+      "filename": "ge_essentials_practical-ecaeeb2d37eb353b.wav",
+      "seconds": 1.68,
+      "peak": 18061,
+      "rms": 2653.1,
+      "sha256": "cd4c22257d03d17605d3bf02099a7a98f996b1485a48b41f762ff682cbc8156b"
+    },
+    {
+      "filename": "ge_essentials_practical-6f96f6db0cc05167.wav",
+      "seconds": 1.92,
+      "peak": 32767,
+      "rms": 3824.8,
+      "sha256": "c194d63ad9c1cd12da3429b5783a22dfe8a0f76888bfb087e2118c2e1a213eec"
+    },
+    {
+      "filename": "ge_essentials_practical-7d5b33af38c02942.wav",
+      "seconds": 1.48,
+      "peak": 26520,
+      "rms": 1989.9,
+      "sha256": "37b141459ea6aabaadb231d1010bcabed308b79747131d19f0df6d8e90eee36c"
+    },
+    {
+      "filename": "ge_essentials_practical-78e3675e1eabc28f.wav",
+      "seconds": 1.72,
+      "peak": 19265,
+      "rms": 2250.6,
+      "sha256": "f23307afe3c50115dd6c4a8ed6d9c6461877c49d1f345c775b220f95c5267cc3"
+    },
+    {
+      "filename": "ge_essentials_practical-1659adc30807872b.wav",
+      "seconds": 2.16,
+      "peak": 25672,
+      "rms": 2978.1,
+      "sha256": "07092b1b5dd7ca0eabd1c617280b14ab171859411b880f58b246428d586ad433"
+    },
+    {
+      "filename": "ge_essentials_practical-0ffa1a811c33cf56.wav",
+      "seconds": 1.36,
+      "peak": 32108,
+      "rms": 3629.0,
+      "sha256": "d8fbe1582c8c0a1acc08d79daa6e605aebdb186e10ae5af7589d4a6025faccee"
+    },
+    {
+      "filename": "ge_essentials_practical-51fcccefc1555ef8.wav",
+      "seconds": 1.6,
+      "peak": 17144,
+      "rms": 1487.8,
+      "sha256": "e090ae142ff4164af59b13097c52f2c31b8ba7c739e770bcafc470e546d58ab2"
+    },
+    {
+      "filename": "ge_essentials_practical-2b6fc411e3808d73.wav",
+      "seconds": 1.56,
+      "peak": 29190,
+      "rms": 2295.3,
+      "sha256": "80316790df975310bf59d36777c6ae6e25a8823bf809e7125fd0d6c6999ab3db"
+    },
+    {
+      "filename": "ge_essentials_practical-d75974346b45aa80.wav",
+      "seconds": 1.92,
+      "peak": 32767,
+      "rms": 4707.7,
+      "sha256": "bf5b527a54000de88e7666262bfb8f5474794b38936d936ae672597536a3f0fb"
+    },
+    {
+      "filename": "ge_essentials_practical-14c7ce6c5d9c2011.wav",
+      "seconds": 3.44,
+      "peak": 32768,
+      "rms": 5103.2,
+      "sha256": "c1237a7a26a3a507aaa63ba1abcd76255d471aa67e7de8419f2128e31d004431"
+    },
+    {
+      "filename": "ge_essentials_practical-a8e1f7b9dcd3f2f1.wav",
+      "seconds": 1.56,
+      "peak": 28719,
+      "rms": 4323.8,
+      "sha256": "e416e2e04f6ccf401b65eafa46724eabadfd62b48c2e5bec0530409b577aefd6"
+    },
+    {
+      "filename": "ge_essentials_practical-eb00bc7b1b9d3d7d.wav",
+      "seconds": 1.76,
+      "peak": 30701,
+      "rms": 4388.6,
+      "sha256": "eacd7939488645d25392e03dfc826b8997e1d98a716185295f8a1b779996766b"
+    },
+    {
+      "filename": "ge_essentials_practical-6a49b060a4464ed7.wav",
+      "seconds": 1.56,
+      "peak": 19852,
+      "rms": 2170.7,
+      "sha256": "374df200b0f0e65d38b0d65649c2babfa88e713bcdd90f7990b93d1afe793c4e"
+    },
+    {
+      "filename": "ge_essentials_practical-0fd736947689439f.wav",
+      "seconds": 1.6,
+      "peak": 11349,
+      "rms": 1481.9,
+      "sha256": "386a9d2e2523703935a43f286440ab6ca285e32f98091dd6e99b8fd85bfed01a"
+    },
+    {
+      "filename": "ge_essentials_practical-32be4f8eb2f6c465.wav",
+      "seconds": 1.12,
+      "peak": 15389,
+      "rms": 2541.5,
+      "sha256": "f00036451499a6292c5bd6e01d3d74e9d25248e9d53133a38c0bb3657d798a1b"
+    },
+    {
+      "filename": "ge_essentials_practical-58c64a8d7ab0d586.wav",
+      "seconds": 1.44,
+      "peak": 32768,
+      "rms": 4062.0,
+      "sha256": "1ace4b605701962a54a2ea9440a362d2438a6b163af5deedb6884286220cf9f3"
+    },
+    {
+      "filename": "ge_essentials_practical-34a407fc2a3e4b49.wav",
+      "seconds": 1.32,
+      "peak": 24214,
+      "rms": 2669.2,
+      "sha256": "528d7b85896a20c1c99ab9becf56a7a05174020c75a132f3d0208e5c2d3caca4"
+    },
+    {
+      "filename": "ge_essentials_practical-984649843836405b.wav",
+      "seconds": 1.36,
+      "peak": 32768,
+      "rms": 4441.8,
+      "sha256": "759db34eba5feca7c58297f43f5a5a6f1f240147d950166e59d1e3987b3dcbfd"
+    },
+    {
+      "filename": "ge_essentials_practical-28d405a3e9584669.wav",
+      "seconds": 1.56,
+      "peak": 17032,
+      "rms": 1110.8,
+      "sha256": "c1a7285e06cebb04350ab3133d571dc19a632379089189a4eee1db812bd28c82"
+    },
+    {
+      "filename": "ge_essentials_practical-449816df623dc4a7.wav",
+      "seconds": 1.44,
+      "peak": 22006,
+      "rms": 1837.3,
+      "sha256": "c8b8e728f75be9329bdba59a1855e8792591f72cf93cc6f645c7eae3598aa0fa"
+    },
+    {
+      "filename": "ge_essentials_practical-6b468d388f2cb12e.wav",
+      "seconds": 1.2,
+      "peak": 23828,
+      "rms": 3744.2,
+      "sha256": "dc340d34539cafcdaa6ca75d1f6a72d8c2b48bd23495709a1203297c77e4428a"
+    },
+    {
+      "filename": "ge_essentials_practical-436040da7f5e79ae.wav",
+      "seconds": 1.84,
+      "peak": 12101,
+      "rms": 1473.2,
+      "sha256": "30d3ea238fa8ec8cb26f341dda6485d40c9c0acd31946c2cbe31117441d7b989"
+    },
+    {
+      "filename": "ge_essentials_practical-09eded8e3bb89f08.wav",
+      "seconds": 1.24,
+      "peak": 30798,
+      "rms": 4027.9,
+      "sha256": "5df135db2b6f3b81ff9e1f6b4201fa9a34e37d3d62cb1e9671fb4358f56e4cf5"
+    },
+    {
+      "filename": "ge_essentials_practical-4459e87d00f11cc8.wav",
+      "seconds": 1.6,
+      "peak": 27457,
+      "rms": 3501.8,
+      "sha256": "05e81269c27be4ce6839db6a0f649c44fbbd8606fcf4211e80a6ad0209fa194c"
+    },
+    {
+      "filename": "ge_essentials_practical-3a2a0a543bf6d4b8.wav",
+      "seconds": 1.28,
+      "peak": 14053,
+      "rms": 1584.7,
+      "sha256": "eaa664fda5fe49192c51488e7d0f4cd071be0a86a4baebdf68b1202c74846d01"
+    },
+    {
+      "filename": "ge_essentials_practical-a5e7a3c5a9f840e2.wav",
+      "seconds": 1.16,
+      "peak": 30154,
+      "rms": 3863.8,
+      "sha256": "a6e9ede10bcf055c0cc6e036e86f9cd8ef6d4c1ae49ad96ec5d31c046eb761c8"
+    },
+    {
+      "filename": "ge_essentials_practical-0c605875a0ace9b5.wav",
+      "seconds": 1.08,
+      "peak": 20263,
+      "rms": 2031.8,
+      "sha256": "9a44d432c9697957801c24e2c72db08607446a49b4c1750c14e990ddea3c31f9"
+    },
+    {
+      "filename": "ge_essentials_practical-4d94337510bcb4fc.wav",
+      "seconds": 1.36,
+      "peak": 30424,
+      "rms": 2690.8,
+      "sha256": "fb3595fefbb580e2ec60c06435bfae8a3bf1490686817967ddb8042d84b7a0af"
+    },
+    {
+      "filename": "ge_essentials_practical-4257ebd0ac934ebc.wav",
+      "seconds": 1.32,
+      "peak": 16684,
+      "rms": 1567.9,
+      "sha256": "186e5c03c24e6a7313bfaad9c249f4401397f78a2254afcbb010a481cb1e522c"
+    },
+    {
+      "filename": "ge_essentials_practical-60052ab87c278763.wav",
+      "seconds": 1.28,
+      "peak": 25774,
+      "rms": 3106.1,
+      "sha256": "031e78f1c5d52f09a546a7f98634fb551fc895143a73517cc207e7957f314871"
+    },
+    {
+      "filename": "ge_essentials_practical-1c1f2ed0e9c3a889.wav",
+      "seconds": 1.24,
+      "peak": 32767,
+      "rms": 2389.5,
+      "sha256": "d03f82e4819a3654fd30ecefece99144d1f5799e68cdf37d4b0da9c869681660"
+    },
+    {
+      "filename": "ge_essentials_practical-d8675e72d0e8a839.wav",
+      "seconds": 1.12,
+      "peak": 27256,
+      "rms": 2420.4,
+      "sha256": "b8309b525c0367481628df4200cd4c0b0f3a7ad50fa31229966f87f22a792075"
+    },
+    {
+      "filename": "ge_essentials_practical-55acf5adb4f395d8.wav",
+      "seconds": 1.4,
+      "peak": 27147,
+      "rms": 3381.4,
+      "sha256": "5faf4e169cceead499fbfea982992c11da70501bda3720b1644772a3fd4e1846"
+    },
+    {
+      "filename": "ge_essentials_practical-a99e8a29b5b5bb10.wav",
+      "seconds": 1.52,
+      "peak": 30796,
+      "rms": 3208.2,
+      "sha256": "51f01b2436c202fe89822224228518b82a3daee61faf8688aa2b12a1cf79d77b"
+    },
+    {
+      "filename": "ge_essentials_practical-7efbd246999c4d5c.wav",
+      "seconds": 1.12,
+      "peak": 25104,
+      "rms": 2488.8,
+      "sha256": "6821c3d8bfad57c10ba3fea4354a0c3b39e5372aeb253dc81b3c85cdeabb665c"
+    },
+    {
+      "filename": "ge_essentials_practical-75adea3b22b442db.wav",
+      "seconds": 1.4,
+      "peak": 28044,
+      "rms": 4361.2,
+      "sha256": "ff28668c6a190d44fdf24d4dc3d7a40d7d310b9fd33981b95cfd1b1b67cdce33"
+    },
+    {
+      "filename": "ge_essentials_practical-ab8703c1911d0ae8.wav",
+      "seconds": 1.52,
+      "peak": 20436,
+      "rms": 2370.7,
+      "sha256": "1c43c8be12bad7a16ac5cbe8ca9fdba213a3dcc5b9c00c41dfdf394567a40939"
+    },
+    {
+      "filename": "ge_essentials_practical-5a1e123bdcd71b6f.wav",
+      "seconds": 1.2,
+      "peak": 32768,
+      "rms": 3913.9,
+      "sha256": "172362d913779ae5397c6d8009aaf7fde799d9ee1dd9c0c06f6f07b4bd6ea338"
+    },
+    {
+      "filename": "ge_essentials_practical-cdb50374f2572dfc.wav",
+      "seconds": 1.12,
+      "peak": 18791,
+      "rms": 1604.9,
+      "sha256": "e03a71d02f61aa14054bf8a715f0ba2494945363d8db7fc9e0a57c34815289b6"
+    },
+    {
+      "filename": "ge_essentials_practical-0f22fe2c31e4b107.wav",
+      "seconds": 1.2,
+      "peak": 16416,
+      "rms": 2241.4,
+      "sha256": "2e724be7270560963f36525ef2900e8269a7586e0908b92c902ceb6c32ee92f6"
+    },
+    {
+      "filename": "ge_essentials_practical-cc2996fb59df0395.wav",
+      "seconds": 1.0,
+      "peak": 32768,
+      "rms": 2555.6,
+      "sha256": "786e9f8c759e07662ce73c2b3a90f502ca030d95cca6ce376816883e3f925b0d"
+    },
+    {
+      "filename": "ge_essentials_practical-75d8236783b869ca.wav",
+      "seconds": 1.44,
+      "peak": 18790,
+      "rms": 1996.9,
+      "sha256": "9ee4dad8663ed48d9bfcbfc3b751286e23118b6c81f186c9b33e5b544c6951ca"
+    },
+    {
+      "filename": "ge_essentials_practical-90501a5bdbe88ce5.wav",
+      "seconds": 1.4,
+      "peak": 22431,
+      "rms": 2553.7,
+      "sha256": "eb2b8131253d4775b727a47de30b4ce4760eff48bc7a40ecbdb697db620f7afd"
+    },
+    {
+      "filename": "ge_essentials_practical-0142ed414bd4a3a2.wav",
+      "seconds": 1.36,
+      "peak": 15011,
+      "rms": 1932.3,
+      "sha256": "3349bba077e49ee3afa9f18e66fd4e3b207bd16be2ebc743ca08bde9a6303ea7"
+    },
+    {
+      "filename": "ge_essentials_practical-323dd961e8bb8834.wav",
+      "seconds": 1.4,
+      "peak": 10496,
+      "rms": 1742.2,
+      "sha256": "91cb1be9fa1e5fd61a74e230c58fdeda092b2a5c45a82a47d41056abdb2a774c"
+    },
+    {
+      "filename": "ge_essentials_practical-a10a8d4eb20a665a.wav",
+      "seconds": 0.84,
+      "peak": 15456,
+      "rms": 1678.4,
+      "sha256": "0f846fa4debcf535150f4629af3d56a7b72d427296b458ccbf2699fe766fd3e4"
+    },
+    {
+      "filename": "ge_essentials_practical-0b9c4bddf3cb2306.wav",
+      "seconds": 1.32,
+      "peak": 23247,
+      "rms": 4047.9,
+      "sha256": "f4f9286795e4d3856a738126386bf03ddeff17ed9f9a145acfa223024b47b2de"
+    },
+    {
+      "filename": "ge_essentials_practical-09f5c7a916841abd.wav",
+      "seconds": 1.2,
+      "peak": 32767,
+      "rms": 2806.8,
+      "sha256": "6902247ed331e140ab79ac5088e64d8fe8a665606db41a46f1c77cf3e102cf04"
+    },
+    {
+      "filename": "ge_essentials_practical-add366fba258bb34.wav",
+      "seconds": 2.0,
+      "peak": 22643,
+      "rms": 2678.0,
+      "sha256": "89bf3cdcae2752503de479c76225dcde8b06846c9ef021623ce5aed11a8b3f2e"
+    },
+    {
+      "filename": "ge_essentials_practical-e00aa0b77b7dd688.wav",
+      "seconds": 2.04,
+      "peak": 21742,
+      "rms": 3959.3,
+      "sha256": "c7d230dbd476d599b561a803afe358d01af6b29afcce0a3ab08fc1e557f2e2ea"
+    },
+    {
+      "filename": "ge_essentials_practical-06b6e56afa7f3bea.wav",
+      "seconds": 1.36,
+      "peak": 22044,
+      "rms": 2064.1,
+      "sha256": "53aaee4df179ac8452411bd848500feb7dbf942d0001f306c602ecc4062de820"
+    },
+    {
+      "filename": "ge_essentials_practical-fea5a89d3e6435b1.wav",
+      "seconds": 1.92,
+      "peak": 32767,
+      "rms": 3552.4,
+      "sha256": "2b21d9abb1fc0d6fa7d4d25df428dc3e8cc26b68e09176fcf0b454e1e3e4163f"
+    },
+    {
+      "filename": "ge_essentials_practical-a2ec5482af8bc99b.wav",
+      "seconds": 1.72,
+      "peak": 25878,
+      "rms": 5193.4,
+      "sha256": "88dd72a55828123d64deffed93f74d4439b289c2b67893c3f276394e57f802d6"
+    },
+    {
+      "filename": "ge_essentials_practical-f11e226a97b2bcaf.wav",
+      "seconds": 2.16,
+      "peak": 24034,
+      "rms": 3493.1,
+      "sha256": "7fe167b431a07e20bedda0ebf257e06dcf96a36caf7dde8afc3c0f3408124c6f"
+    },
+    {
+      "filename": "ge_essentials_practical-0091c358514ce004.wav",
+      "seconds": 2.08,
+      "peak": 32768,
+      "rms": 4056.8,
+      "sha256": "ea70c42d1b550df8f2855b813174084b81f4eec95d68e007b8d3b5259975e84d"
+    },
+    {
+      "filename": "ge_essentials_practical-6b00dcdb3ce79126.wav",
+      "seconds": 2.44,
+      "peak": 32768,
+      "rms": 4590.6,
+      "sha256": "37e396529dbce8ce58965bb42deaf8181bf6deca8f5218802689ec86c1b80a1f"
+    },
+    {
+      "filename": "ge_essentials_practical-5844a93f66bf20f7.wav",
+      "seconds": 2.8,
+      "peak": 22311,
+      "rms": 3071.4,
+      "sha256": "ac50adbb047b2bd4172c871b63e68a5bdbd3a0bcce7421238087aff434d06728"
+    },
+    {
+      "filename": "ge_essentials_practical-6756cdfb9135d67d.wav",
+      "seconds": 2.68,
+      "peak": 13961,
+      "rms": 1790.2,
+      "sha256": "dcb3c80188ae34682dbb07c22b4bf8e8a37af70bb96def3925b9a2b415231ea5"
+    },
+    {
+      "filename": "ge_essentials_practical-30ca332bef32be08.wav",
+      "seconds": 2.36,
+      "peak": 32768,
+      "rms": 6172.5,
+      "sha256": "cd7130662c6aedb8779fd116c7fb7a2d6de6c5507317582c6f979481a1a88eab"
+    },
+    {
+      "filename": "ge_essentials_practical-cf9271c83cd41d49.wav",
+      "seconds": 1.72,
+      "peak": 31204,
+      "rms": 3588.7,
+      "sha256": "38926fcf11dcdf0f6970a4272d39e45b746b50e1ef36ebf8cde124e066e638bc"
+    },
+    {
+      "filename": "ge_essentials_practical-8ee17008e7917ca6.wav",
+      "seconds": 2.36,
+      "peak": 28822,
+      "rms": 3161.8,
+      "sha256": "8d9ae58d9a2650638b8594c92d3cbf7a45df00656d78c642dd4ab30a2951d0c3"
+    },
+    {
+      "filename": "ge_essentials_practical-261aad971a59ed24.wav",
+      "seconds": 2.16,
+      "peak": 28472,
+      "rms": 2773.2,
+      "sha256": "f84b5547b4d91d712f37857ffa18f1ad040940b03216433595c8944afe0462d9"
+    },
+    {
+      "filename": "ge_essentials_practical-57182a7550ba18d1.wav",
+      "seconds": 2.6,
+      "peak": 32767,
+      "rms": 3838.1,
+      "sha256": "4b3193fa7c17219285ee69eb0fc7b613e4def69538f054fba567ae7fc3eec839"
+    },
+    {
+      "filename": "ge_essentials_practical-c17cceb9212f7da7.wav",
+      "seconds": 2.36,
+      "peak": 21411,
+      "rms": 2943.3,
+      "sha256": "ec9f30364352ed4c1ba52aeaf007bb2c628a2eeef8d1f869b67e1665443747c9"
+    },
+    {
+      "filename": "ge_essentials_practical-839986a1b7782c35.wav",
+      "seconds": 1.96,
+      "peak": 32094,
+      "rms": 3748.2,
+      "sha256": "c2669fb0f2cd1805b17d515d01b8e973e8f1b5e03db5f12dc80227ba352e2112"
+    },
+    {
+      "filename": "ge_essentials_practical-c2b20d090717d80b.wav",
+      "seconds": 1.68,
+      "peak": 26109,
+      "rms": 3626.3,
+      "sha256": "6f47742ca7640ad5717647ec8285339de6293d79aecf01395ca0eefca022adf6"
+    },
+    {
+      "filename": "ge_essentials_practical-73681639f04e8673.wav",
+      "seconds": 2.28,
+      "peak": 18397,
+      "rms": 2195.6,
+      "sha256": "fefd911e1a23ada464cad3bca003566e64faedf9b62ff9a6dcbfa07c4ac77511"
+    },
+    {
+      "filename": "ge_essentials_practical-38fe311ce88b231a.wav",
+      "seconds": 1.92,
+      "peak": 25889,
+      "rms": 3244.9,
+      "sha256": "47719515f36a7a2db59e819c7c38df0dbfc21f4d642e1c2552ef0d855f76ae88"
+    },
+    {
+      "filename": "ge_essentials_practical-385889803c9f3115.wav",
+      "seconds": 2.48,
+      "peak": 32626,
+      "rms": 3997.3,
+      "sha256": "0d949bb715125df53856ff3606a3b626ad5673920d8b2fccfb27b1c7d1fba6b1"
+    },
+    {
+      "filename": "ge_essentials_practical-7fad129fe240ad69.wav",
+      "seconds": 2.6,
+      "peak": 21160,
+      "rms": 2607.0,
+      "sha256": "2bafd3172cd5a94a9e43a9d0c8c9a1b1a33ec1f1536bd428854c11e80406696e"
+    },
+    {
+      "filename": "ge_essentials_practical-bbccd7eae5bc395a.wav",
+      "seconds": 2.6,
+      "peak": 21096,
+      "rms": 3575.6,
+      "sha256": "45063496882338da69d2d9d84fb5e1a49faa26f6cd4298ce3f82801bbee2ef37"
+    },
+    {
+      "filename": "ge_essentials_practical-9619c7b14ee37df1.wav",
+      "seconds": 2.32,
+      "peak": 32427,
+      "rms": 4494.9,
+      "sha256": "281af102a8d44572026ebeaa20354f9f03abea5905c64d6615b2c28c0037e5c5"
+    },
+    {
+      "filename": "ge_essentials_practical-497394414d7ddabd.wav",
+      "seconds": 2.32,
+      "peak": 32572,
+      "rms": 3955.0,
+      "sha256": "7fd33774b5b9069de04b024e423ef264fc57f503d19c7be02268d96478422262"
+    },
+    {
+      "filename": "ge_essentials_practical-f9cab9500dd4b888.wav",
+      "seconds": 2.2,
+      "peak": 32767,
+      "rms": 4172.5,
+      "sha256": "121aad0574cfe13222f4818652ed4e6250167d90b005a0e9f89d2fd4edbbebd2"
+    },
+    {
+      "filename": "ge_essentials_practical-9973769d612dc345.wav",
+      "seconds": 2.48,
+      "peak": 32767,
+      "rms": 4120.7,
+      "sha256": "ee3d74916faf9ef60d50b842453298ed3b2f2c7e3f1aa25ca5c7974724be9a5f"
+    },
+    {
+      "filename": "ge_essentials_practical-75195154daf9ec8a.wav",
+      "seconds": 3.8,
+      "peak": 31037,
+      "rms": 3872.6,
+      "sha256": "4bf75333c530b48ef7612b49d9e6b04d7b09dad16d25d47b74a2c6ea50bf85cc"
+    },
+    {
+      "filename": "ge_essentials_practical-20255a824164eba1.wav",
+      "seconds": 2.24,
+      "peak": 24047,
+      "rms": 2912.1,
+      "sha256": "0b87d3c2491f6fab716e9777c2de2a8c1b68bcf7434930e8470eaee1369ac493"
+    },
+    {
+      "filename": "ge_essentials_practical-6fd7652c250d1c0f.wav",
+      "seconds": 3.04,
+      "peak": 27006,
+      "rms": 4602.6,
+      "sha256": "6594af0d4693d2ff2f26a626f56ec8f9632638e84c4b946abb72e14ba9fceb75"
+    },
+    {
+      "filename": "ge_essentials_practical-5de26d8f2f83e4a7.wav",
+      "seconds": 2.4,
+      "peak": 32767,
+      "rms": 3044.3,
+      "sha256": "e0222c83b2da6734ddf9a0623f965d5f7bda2d7346679eff1e5444fda487aa28"
+    },
+    {
+      "filename": "ge_essentials_practical-ab732ead472603a7.wav",
+      "seconds": 1.48,
+      "peak": 30976,
+      "rms": 2763.9,
+      "sha256": "a3850702a1a41ad36f63548abf4ac3154f6fc6b264fb2d2e13afc4df1b1f5529"
+    },
+    {
+      "filename": "ge_essentials_practical-c2eedf933257fea1.wav",
+      "seconds": 1.6,
+      "peak": 17765,
+      "rms": 2868.7,
+      "sha256": "9207f267b34da17c2a75159c5eb18b462f4479e10a0745edc1c2fa782a8f71d6"
+    },
+    {
+      "filename": "ge_essentials_practical-0b5dd35decfb2599.wav",
+      "seconds": 2.84,
+      "peak": 30849,
+      "rms": 3518.9,
+      "sha256": "a3497d3566b11a8fe6b0dce936258616af950a3e0640f6dc4fe1e16d268d4b06"
+    },
+    {
+      "filename": "ge_essentials_practical-bb85422a184ed226.wav",
+      "seconds": 3.0,
+      "peak": 32767,
+      "rms": 3904.1,
+      "sha256": "609a4921c49d600146d806915e98f507d39020907430705cf469d915f619c8da"
+    },
+    {
+      "filename": "ge_essentials_practical-6238cab510716d4f.wav",
+      "seconds": 3.36,
+      "peak": 32768,
+      "rms": 5054.5,
+      "sha256": "a07809d4c25c44c3597b9247514c5920b3b69190976a22ddca57c9ffc6ee62c7"
+    },
+    {
+      "filename": "ge_essentials_practical-29b13b89f27657dc.wav",
+      "seconds": 1.96,
+      "peak": 32767,
+      "rms": 4230.5,
+      "sha256": "569af6ef0ea233c7759c666f533e768414798683c50d2e176620b13b37cc0228"
+    },
+    {
+      "filename": "ge_essentials_practical-649da6aa4a9a9470.wav",
+      "seconds": 1.88,
+      "peak": 23557,
+      "rms": 3133.7,
+      "sha256": "a6400d2e84ce454b285e12b717fce44eae5bc228ffb0cd0dd40f5930ac64096a"
+    },
+    {
+      "filename": "ge_essentials_practical-e03a896c4da056a4.wav",
+      "seconds": 2.92,
+      "peak": 22027,
+      "rms": 3114.8,
+      "sha256": "092f2e91a45f43fffb8f0a8ee035749341aeee1f5ce2498e76444c20d5a5eaa8"
+    },
+    {
+      "filename": "ge_essentials_practical-d6dc7e0d7972afaf.wav",
+      "seconds": 1.64,
+      "peak": 31308,
+      "rms": 4085.7,
+      "sha256": "bffc17c2ef573301f5c1b227267756aa879b726cba1f48008d7a9a6849403545"
+    },
+    {
+      "filename": "ge_essentials_practical-ac7d054715b656ad.wav",
+      "seconds": 2.76,
+      "peak": 23736,
+      "rms": 3279.2,
+      "sha256": "a0db82c174cc9cf561dafe8ed2f06d5feabd614d3bce99d6069dc22fc7997b65"
+    },
+    {
+      "filename": "ge_essentials_practical-92f35eceba79ad50.wav",
+      "seconds": 2.2,
+      "peak": 28034,
+      "rms": 4364.8,
+      "sha256": "fb3c0e4bccd1a773f42e4521ab19e6cde50be07c918e139412f701562927de75"
+    },
+    {
+      "filename": "ge_essentials_practical-78a222cef4610fa2.wav",
+      "seconds": 1.76,
+      "peak": 24960,
+      "rms": 4104.1,
+      "sha256": "fa0de1e4335aa9ba30b9550e7abf16f11293de5c992b4662f1fbce7181e295dc"
+    },
+    {
+      "filename": "ge_essentials_practical-179682534a171e67.wav",
+      "seconds": 2.44,
+      "peak": 30484,
+      "rms": 4192.2,
+      "sha256": "6ce3c9a2c88b66a8c37252ba0d884df3980ad4d36d33005f18b083a51de37d7a"
+    },
+    {
+      "filename": "ge_essentials_practical-4cd561392011d8ec.wav",
+      "seconds": 1.92,
+      "peak": 32767,
+      "rms": 4802.0,
+      "sha256": "28bdf7d0cac0afb929c81f0b392f97756c210ce81b7c2106a4bf5af6152a6a35"
+    },
+    {
+      "filename": "ge_essentials_practical-bee20dd4f826efd5.wav",
+      "seconds": 1.72,
+      "peak": 29642,
+      "rms": 3473.8,
+      "sha256": "4fc48279ec1c1f5a9e4d85a561e25c7c4eb2a4f511b8ff599eabde18d9217cb1"
+    },
+    {
+      "filename": "ge_essentials_practical-b7146a274d9854ef.wav",
+      "seconds": 1.52,
+      "peak": 28328,
+      "rms": 1541.0,
+      "sha256": "aa1d3e4c030638baef2350bcdd8a040df73a88c967e4de738b697e6850e3b3fa"
+    },
+    {
+      "filename": "ge_essentials_practical-aeddb65aabd1bb75.wav",
+      "seconds": 2.2,
+      "peak": 32767,
+      "rms": 4716.3,
+      "sha256": "f7feba95d2963f2ec17ffae6d5aa7f91b7b96e5bacc73ba7a8ee13b528734b3b"
+    },
+    {
+      "filename": "ge_essentials_practical-f3a9dc75060b4757.wav",
+      "seconds": 1.72,
+      "peak": 32767,
+      "rms": 3965.7,
+      "sha256": "22b5f49f2a5b54c3eca60ff5fc05e82c3d0eb9948d6ad777f999f6f8876d76e3"
+    },
+    {
+      "filename": "ge_essentials_practical-f6344259037c99f5.wav",
+      "seconds": 1.6,
+      "peak": 26422,
+      "rms": 2784.3,
+      "sha256": "37808576f7a8f6c38063e313f17c4fd1593c4e1c762cc46b0c5ce64263144c35"
+    },
+    {
+      "filename": "ge_essentials_practical-a20fd7938210e9e2.wav",
+      "seconds": 1.6,
+      "peak": 26292,
+      "rms": 2609.1,
+      "sha256": "63b48791984afc573a36516732c3f6b4b8a2ab5e98806bb6b1815424aa546e55"
+    },
+    {
+      "filename": "ge_essentials_practical-88f59e82c063537f.wav",
+      "seconds": 1.56,
+      "peak": 23799,
+      "rms": 2623.0,
+      "sha256": "363affa80e8ec68133b0379ff93c36bb7a7b431cb73943430fe3886240c110c1"
+    },
+    {
+      "filename": "ge_essentials_practical-b7323cdc7e943ec5.wav",
+      "seconds": 1.8,
+      "peak": 31170,
+      "rms": 2582.8,
+      "sha256": "8b70c6da468aa2f352a594bcf44c4e1e17ec87783d63087b9e8af0f0598843d8"
+    },
+    {
+      "filename": "ge_essentials_practical-3832036e54eb59fc.wav",
+      "seconds": 1.6,
+      "peak": 27887,
+      "rms": 2926.1,
+      "sha256": "2c6e2000d310d55765202b596a86ec95f0e152dc5c0f0e39c77fe558c3780e45"
+    },
+    {
+      "filename": "ge_essentials_practical-c183815d24d843aa.wav",
+      "seconds": 1.44,
+      "peak": 26907,
+      "rms": 2946.2,
+      "sha256": "07ed29835c7bfbfb78cf72f0b07caa7a52c927e92e2a5bf0ed1adecc8066edc3"
+    },
+    {
+      "filename": "ge_essentials_practical-a7b96cc889b37818.wav",
+      "seconds": 1.84,
+      "peak": 13424,
+      "rms": 1620.9,
+      "sha256": "29854ae781b50601c09ed8dba6d3d3d414b621ffc55d1ea6f462a8523fb15893"
+    },
+    {
+      "filename": "ge_essentials_practical-d2683f6122f4c313.wav",
+      "seconds": 1.88,
+      "peak": 19739,
+      "rms": 2244.7,
+      "sha256": "0c341525cbd89977014bb2b329d315cae2645a40ff387c2792d0e18a665096a9"
+    },
+    {
+      "filename": "ge_essentials_practical-88d0ed2f830fd8bc.wav",
+      "seconds": 2.32,
+      "peak": 18094,
+      "rms": 2488.4,
+      "sha256": "bfd80d591608f74b41f537bf38f309ada15db08b140b48f7665ad7f584a08ffb"
+    },
+    {
+      "filename": "ge_essentials_practical-6a97c1731ffeb22f.wav",
+      "seconds": 2.2,
+      "peak": 27649,
+      "rms": 3810.4,
+      "sha256": "d081983e897531349a7359dfe8e011722dbde28b9de1901a5440ca6580de9527"
+    },
+    {
+      "filename": "ge_essentials_practical-61653cb9a89c4879.wav",
+      "seconds": 1.8,
+      "peak": 25028,
+      "rms": 4176.7,
+      "sha256": "8adc46d66925bbcaa18f22f9de11f72df88736881a83246a01eabdef4c6613ea"
+    },
+    {
+      "filename": "ge_essentials_practical-a756920b8cdec380.wav",
+      "seconds": 2.24,
+      "peak": 23615,
+      "rms": 2967.0,
+      "sha256": "68291f7b511682f1ac421d154383f55bdaf0e75becf53766383e6f4472df026a"
+    },
+    {
+      "filename": "ge_essentials_practical-26d308c6b1027614.wav",
+      "seconds": 2.48,
+      "peak": 32767,
+      "rms": 4682.6,
+      "sha256": "c45177070b71ecdf796f4ad0c78dd2e09dd4e4f2aca4465bdb11d26e263f4547"
+    },
+    {
+      "filename": "ge_essentials_practical-0002d4d06d57cea1.wav",
+      "seconds": 2.76,
+      "peak": 21616,
+      "rms": 2942.6,
+      "sha256": "751e64c77e3475c9481afc356bcedfdea9d985cb5f942b365e15970e4d6e35c9"
+    },
+    {
+      "filename": "ge_essentials_practical-40b670aec2006c43.wav",
+      "seconds": 3.12,
+      "peak": 25801,
+      "rms": 3982.4,
+      "sha256": "3a667c1d2e2ac7d5806eb8d0975824154f1c53225c397b9036095120f90e733e"
+    },
+    {
+      "filename": "ge_essentials_practical-7677c79f3f666c38.wav",
+      "seconds": 2.32,
+      "peak": 26276,
+      "rms": 3896.8,
+      "sha256": "e450a99d1039795d3321e55b741ea07a5af5e72faba178c98a875257b7713461"
+    },
+    {
+      "filename": "ge_essentials_practical-71ae4d6195045a83.wav",
+      "seconds": 2.12,
+      "peak": 26253,
+      "rms": 3616.5,
+      "sha256": "51c2e24d56bb76e74f30f254b40a64b552865bbce2a150cb7125a25f43468d27"
+    },
+    {
+      "filename": "ge_essentials_practical-939deea14763b236.wav",
+      "seconds": 2.48,
+      "peak": 27794,
+      "rms": 3894.8,
+      "sha256": "3a4e4038b020a38f021cc1be462428f14d09ede1f409d5f1f906f8d5805dfc65"
+    },
+    {
+      "filename": "ge_essentials_practical-b9d85b3eba7f9dae.wav",
+      "seconds": 2.64,
+      "peak": 32768,
+      "rms": 3830.0,
+      "sha256": "1b9fbaa8b157133249db9915b6c106e6b0ea70bfc823d8b1861665992f4ab81a"
+    },
+    {
+      "filename": "ge_essentials_practical-4db46f24ee4b7364.wav",
+      "seconds": 3.16,
+      "peak": 30399,
+      "rms": 4041.8,
+      "sha256": "7ebf79946a9ad9e1d821ec36e52cc0158b078049e28a6f1c3915270f6727bfe9"
+    },
+    {
+      "filename": "ge_essentials_practical-05698ed0f79f2b17.wav",
+      "seconds": 2.2,
+      "peak": 27830,
+      "rms": 3615.6,
+      "sha256": "8fb99cbde0c02cb8a24efa87fe6cd1c9417860cd0f82ad27f6f1a6c9c04a338b"
+    },
+    {
+      "filename": "ge_essentials_practical-011e8a3672419179.wav",
+      "seconds": 2.52,
+      "peak": 27750,
+      "rms": 4313.4,
+      "sha256": "9c7138fa83b3377e1fdd94e89dc8578fb0c25824e994f27800fa9a954d427888"
+    },
+    {
+      "filename": "ge_essentials_practical-13ae29d7470fc2d9.wav",
+      "seconds": 2.52,
+      "peak": 27024,
+      "rms": 4824.5,
+      "sha256": "0d70d25eab2f6c8d38124adeb572efd5c9e6b03adc6ed50ca6f5c5f30a19a139"
+    },
+    {
+      "filename": "ge_essentials_practical-6f70ca277788ca20.wav",
+      "seconds": 2.4,
+      "peak": 16386,
+      "rms": 1790.5,
+      "sha256": "23ec7632677f26e70835138168e9ef86353a68934e4107bc5d6f5e661f6dbd65"
+    },
+    {
+      "filename": "ge_essentials_practical-858f5a3c4df2ebad.wav",
+      "seconds": 1.76,
+      "peak": 19538,
+      "rms": 2627.5,
+      "sha256": "cf5d9d0e0906ed11087f51cdcc5e1de975400ee4794e03d9911ec43dc7dbff9f"
+    },
+    {
+      "filename": "ge_essentials_practical-71cea883f1737b59.wav",
+      "seconds": 1.72,
+      "peak": 21028,
+      "rms": 1666.7,
+      "sha256": "0d0b63cf0d2657734551f90204ad0a13fe159cb6cbee6a8a4ee15ac06b54c585"
+    },
+    {
+      "filename": "ge_essentials_practical-159d099f1cb44b6c.wav",
+      "seconds": 2.6,
+      "peak": 25055,
+      "rms": 3285.0,
+      "sha256": "c30726adf58612c7bc25520685be4afbd83333d6c73280764ed463ce2930ab09"
+    },
+    {
+      "filename": "ge_essentials_practical-83bb554fd450c6e9.wav",
+      "seconds": 1.72,
+      "peak": 22153,
+      "rms": 2680.1,
+      "sha256": "d85eed4b908368c0463c71d39cdffbd4ee782529a8e0bbdcda1bb8fa347b6a6b"
+    },
+    {
+      "filename": "ge_essentials_practical-bfb306e2df9bcd6e.wav",
+      "seconds": 1.56,
+      "peak": 29803,
+      "rms": 3773.8,
+      "sha256": "5e37ca5801583f026b99027fa7e3330c0ef624f840a1897fd6244ca1339f850f"
+    },
+    {
+      "filename": "ge_essentials_practical-46fae99c16bf93a0.wav",
+      "seconds": 1.76,
+      "peak": 17833,
+      "rms": 2301.4,
+      "sha256": "f7f4166406c08bbd4e06f5e7e0ca55be7660cce3608b23b870ce400a3064b2c6"
+    },
+    {
+      "filename": "ge_essentials_practical-8a7e381df1f572f4.wav",
+      "seconds": 1.2,
+      "peak": 22501,
+      "rms": 2590.2,
+      "sha256": "1aebe6d5c6a9f8c18390b8221e0aee5da6f199472e8596549105f0b2accbf5a3"
+    },
+    {
+      "filename": "ge_essentials_practical-59af0bb83df9135f.wav",
+      "seconds": 2.12,
+      "peak": 26661,
+      "rms": 3711.0,
+      "sha256": "530c99221d5ededfa5c8c15873c34d1e996b70523b13fc06796ff43e7fd45bb8"
+    },
+    {
+      "filename": "ge_essentials_practical-efa025fa843536ac.wav",
+      "seconds": 2.32,
+      "peak": 25826,
+      "rms": 2659.0,
+      "sha256": "c2c5090ac4e4c36c056b90162b948bd65b9bdda1b215fb294c423542b500373c"
+    },
+    {
+      "filename": "ge_essentials_practical-845792ef5e699e68.wav",
+      "seconds": 2.8,
+      "peak": 27968,
+      "rms": 4645.1,
+      "sha256": "e2443878923070fd98ba1068baa185788bcd8802565e82161a9650021cacfeca"
+    },
+    {
+      "filename": "ge_essentials_practical-0266ab3c44ca3a88.wav",
+      "seconds": 2.68,
+      "peak": 29808,
+      "rms": 3119.3,
+      "sha256": "59ac18b36c6d3d4ff32bb1a80a15ec410a1240bf8b08de4218d62bc06a3e7d22"
+    },
+    {
+      "filename": "ge_essentials_practical-90b80f34b04de667.wav",
+      "seconds": 2.4,
+      "peak": 24333,
+      "rms": 2698.5,
+      "sha256": "24b5909f3dff55fd11b1eb95ddedf76df71d4298bb7e422765b077cba0c00333"
+    },
+    {
+      "filename": "ge_essentials_practical-6187b4bcac688e2f.wav",
+      "seconds": 1.72,
+      "peak": 20816,
+      "rms": 2067.3,
+      "sha256": "c775307bd44b86f96d71b96d5e4911b5a6cc6ac9d772ed44f4a849537b8d348f"
+    },
+    {
+      "filename": "ge_essentials_practical-f4015cfff0d82802.wav",
+      "seconds": 1.44,
+      "peak": 28537,
+      "rms": 2906.9,
+      "sha256": "ac6a5a89198b5e83dfdafee7c47f68b5b9141fdeb5486fcf8f6a063f9ca35d2e"
+    },
+    {
+      "filename": "ge_essentials_practical-7ff2b6da2e6967cd.wav",
+      "seconds": 2.04,
+      "peak": 19154,
+      "rms": 2406.3,
+      "sha256": "024e416e2361c65f00f0480c268b697d17f7ca0b3df9e24bb954115e18555253"
+    },
+    {
+      "filename": "ge_essentials_practical-f9626b569cd3cb82.wav",
+      "seconds": 2.0,
+      "peak": 26361,
+      "rms": 2657.5,
+      "sha256": "95219b082a2167ad00db75e59cd11f59f2bd283907c8716af3b18d1f81c41cb1"
+    },
+    {
+      "filename": "ge_essentials_practical-2e9c7942173eed58.wav",
+      "seconds": 1.88,
+      "peak": 22508,
+      "rms": 2659.6,
+      "sha256": "615c9f44fa83dabfc81c30df08c81e415abc0d7be2800807849840293e3ce651"
+    },
+    {
+      "filename": "ge_essentials_practical-8e2c961e4b016106.wav",
+      "seconds": 2.0,
+      "peak": 31864,
+      "rms": 3276.4,
+      "sha256": "9b2afbd9b1f341e782a6fccd70f121e411957f6157e1c89a06fa97819752e6be"
+    },
+    {
+      "filename": "ge_essentials_practical-79edabc552b81e07.wav",
+      "seconds": 2.12,
+      "peak": 24412,
+      "rms": 3017.7,
+      "sha256": "285d9d1f853ec04ef0b28c330906f12c4c138e65ab56bda8336bdd00e0911ea2"
+    },
+    {
+      "filename": "ge_essentials_practical-b5662ff014725c06.wav",
+      "seconds": 2.08,
+      "peak": 23664,
+      "rms": 3510.5,
+      "sha256": "b102267c9978329e55b5ae72cef3756e40c52fd1d8d0e652391a56c3cebdb2aa"
+    },
+    {
+      "filename": "ge_essentials_practical-964bfe86ee2dc4e1.wav",
+      "seconds": 1.68,
+      "peak": 13570,
+      "rms": 2326.6,
+      "sha256": "a0872f5bd079d3ded2505d163cdd0b56a9380e1882411c74141b74dfa4b792ee"
+    },
+    {
+      "filename": "ge_essentials_practical-0dfd52e0358751aa.wav",
+      "seconds": 1.48,
+      "peak": 31630,
+      "rms": 3568.4,
+      "sha256": "c852f790fdb6ca634074461669dcf70e3414a1e8648e94362f673481acb98eb5"
+    },
+    {
+      "filename": "ge_essentials_practical-d5fab2ba45f364a0.wav",
+      "seconds": 2.12,
+      "peak": 20560,
+      "rms": 2462.4,
+      "sha256": "ca47af2cc5b8ff4dc5cf3a5fd4af4f5e3f331d3f93f4c1cd5851e4c64beae5e8"
+    },
+    {
+      "filename": "ge_essentials_practical-b264010c55ee17ce.wav",
+      "seconds": 1.56,
+      "peak": 31840,
+      "rms": 2207.6,
+      "sha256": "cd85baaf94cdda899509f5f07456481eb323c69d092bebaefed211c790e0021f"
+    },
+    {
+      "filename": "ge_essentials_practical-873858179b1a6e67.wav",
+      "seconds": 1.8,
+      "peak": 25219,
+      "rms": 4600.1,
+      "sha256": "53edfaa74d45a6d3d4e85cce66213330c2c7444a887f8d71d710fc4ebb249c59"
+    },
+    {
+      "filename": "ge_essentials_practical-3bf20784d138b280.wav",
+      "seconds": 1.96,
+      "peak": 32767,
+      "rms": 4869.2,
+      "sha256": "a4fb25b410811f2aeda55d0d089529c4b9bc7562571c827378fad2f5c6614fdd"
+    },
+    {
+      "filename": "ge_essentials_practical-f80cc4a939a9b2be.wav",
+      "seconds": 1.6,
+      "peak": 21577,
+      "rms": 1892.2,
+      "sha256": "0669a4e7f6aba35a10f11b2ebe8365c7a724a9de80fa55d7ff762b35c456e923"
+    }
+  ],
+  "notes_with_audio": 378,
+  "validation": "TSV round-trip, unique fronts, Georgian-only production answers, archive CRC, SQLite integrity, card counts, field equality, media hashes, prompt/text matching, WAV format and non-silent signal passed.",
+  "limits": "No live Anki profile modified. No Anki UI import tested."
+}
