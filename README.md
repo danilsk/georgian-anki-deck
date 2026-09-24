@@ -14,6 +14,12 @@ Download **`georgian-essentials/Georgian-Essentials.apkg`** and use **File → I
 
 **[Browse all 396 cards in your browser](https://danilsk.github.io/georgian-anki-deck/)** — search the whole deck and play any recording without installing anything. AnkiWeb's own listing only previews a handful of cards. The same page is in the repo as `georgian-essentials/preview.html` if you would rather open it locally.
 
+## Русская версия
+
+Та же колода с русскими подсказками и заметками: **`georgian-essentials/Georgian-Essentials-RU.apkg`** (колода «Грузинский - Самое нужное»), импорт через **Файл → Импорт**. Грузинский текст и озвучка те же. У неё свои ID колоды и заметок, поэтому она спокойно живёт рядом с английской в одной коллекции.
+
+[Посмотреть все карточки в браузере](https://danilsk.github.io/georgian-anki-deck/georgian-essentials/preview.ru.html) — или локально: `georgian-essentials/preview.ru.html`.
+
 ## What the notes do
 
 Most cards have no note, on purpose. A note is there only when it does one of three jobs:
@@ -30,7 +36,7 @@ Most cards have no note, on purpose. A note is there only when it does one of th
 uv run build-deck.py
 ```
 
-Reads `practical.tsv` (Front / Back / Notes / Tags), `pronunciation.json` and `audio-manifest.json`, and writes the package, `cards.tsv`, `preview.html`, the card templates and `validation.json` into `georgian-essentials/`. It never touches a live Anki profile. Editing `practical.tsv` and rebuilding is the intended way to change the deck.
+Reads `practical.tsv` (Front / Back / Notes / Tags), `pronunciation.json` and `audio-manifest.json`, and writes the package, `cards.tsv`, `preview.html`, the card templates and `validation.json` into `georgian-essentials/`. The Russian deck is built in the same run from `practical.ru.tsv` and `pronunciation.ru.json`, into the same files with an `-RU` / `.ru` suffix and `templates/ru/`. `practical.ru.tsv` must keep the same rows, order, tags and Georgian text as `practical.tsv`; the build fails otherwise. It never touches a live Anki profile. Editing `practical.tsv` and rebuilding is the intended way to change the deck.
 
 `prepare-audio.py` and `generate-practice.mjs` handle the audio side; `voice.md` records the TTS recipe. Regenerating audio needs an OpenRouter key in the environment and spends credits — the existing WAVs are committed, so a normal rebuild does not call any API.
 

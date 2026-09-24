@@ -1,0 +1,12 @@
+.card { font-family: 'Noto Sans Georgian', 'DejaVu Sans', Arial, sans-serif;
+  font-size: 24px; text-align: center; line-height: 1.65; color: #20242b;
+  background: #faf8f3; padding: 24px; }
+.prompt, .answer, .notes { max-width: 760px; margin: 0 auto; }
+.answer { font-size: 32px; margin-top: 18px; }
+.notes { font-size: 17px; text-align: left; margin-top: 24px; padding-top: 16px;
+  border-top: 1px solid #b8b6ae; }
+.hint { font-size: 15px; color: #656a70; margin-bottom: 14px; }
+.audio { margin: 16px 0; }
+hr { border: 0; border-top: 1px solid #b8b6ae; margin: 24px 0; }
+.nightMode.card { color: #eeeeee; background: #202329; }
+.nightMode .hint { color: #b8bec8; }

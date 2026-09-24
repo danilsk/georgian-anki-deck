@@ -2,6 +2,8 @@
 
 396 cards from 378 notes: 360 practical cards, 18 read-aloud pronunciation cards, and 18 listening cards. Every Georgian target has audio: 373 unique recordings, with identical phrases sharing a clip. Georgian script only; no transliteration. English prompts; notes only where they earn their place. No grammar instruction: phrases are learned whole, not built from case tables or verb paradigms.
 
+A Russian-prompt version of the same deck is in `Georgian-Essentials-RU.apkg`, with `cards.ru.tsv`, `templates/ru/` and `preview.ru.html`. It shares the `media/` folder and follows the instructions below; its note type is `Грузинский: самое нужное — практика + аудирование`.
+
 ## Import into Anki
 
 Use **File → Import** and select **Georgian-Essentials.apkg**. The package contains the note type, card layouts and all 373 audio files. No manual media copying is needed. It adds a deck; it is not a replacement collection. If you imported the earlier version, import this APKG with note updates enabled: existing note identities and the four-field note type are preserved, so your review history survives and the deck is renamed in place rather than duplicated.
